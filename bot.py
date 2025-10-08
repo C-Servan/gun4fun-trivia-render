@@ -199,17 +199,10 @@ async def trivia_job(context: ContextTypes.DEFAULT_TYPE):
         buttons = [[InlineKeyboardButton(opt, callback_data=f"ans|{event_id}|{opt}")]
                    for opt in q["choices"]]
         msg = (
-            f"{random.choice(PHRASE_START)}
-
-"
-            "🎯 *TRIVIA LIGHT-GUN*
-
-"
-            f"{q['q']}
-
-"
-            f"⏱️ Tienes {QUESTION_WINDOW_SECONDS//60} min.
-"
+            f"{random.choice(PHRASE_START)}\n\n"
+            "🎯 *TRIVIA LIGHT-GUN*\n\n"
+            f"{q['q']}\n\n"
+            f"⏱️ Tienes {QUESTION_WINDOW_SECONDS//60} min.\n"
             f"{random.choice(PHRASE_ENCOURAGE)}"
         )
         await context.bot.send_message(
@@ -263,13 +256,9 @@ async def close_event_job(context: ContextTypes.DEFAULT_TYPE):
 
     winners = [r["name"] or f"ID {r['user_id']}" for r in ans if r["correct"] == 1][:5]
     txt = (
-        f"📊 *Cierre de pregunta*
-"
-        f"❓ {ev['question']}
-
-"
-        f"✅ Aciertos: {correct}   ❌ Fallos: {wrong}   👀 No contestaron: {not_ans}
-"
+        f"📊 *Cierre de pregunta*\n"
+        f"❓ {ev['question']}\n\n"
+        f"✅ Aciertos: {correct}   ❌ Fallos: {wrong}   👀 No contestaron: {not_ans}\n"
         + (("🏅 Aciertos: " + ", ".join(winners)) if winners else "")
     )
     await context.bot.send_message(ev["chat_id"], txt, parse_mode="Markdown")

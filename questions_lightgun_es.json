@@ -1,36 +1,4636 @@
 [
   {
+    "q": "¿Qué saga de Namco usa pedal para cubrirse?",
+    "choices": [
+      "The House of the Dead",
+      "Area 51",
+      "Virtua Cop",
+      "Time Crisis"
+    ],
+    "answer": "Time Crisis"
+  },
+  {
+    "q": "¿Cómo se llamó la pistola oficial de PS1 en Europa?",
+    "choices": [
+      "GunCon",
+      "G‑Con 45",
+      "Justifier",
+      "Menacer"
+    ],
+    "answer": "G‑Con 45"
+  },
+  {
+    "q": "¿Quién desarrolló Virtua Cop?",
+    "choices": [
+      "Sega",
+      "Konami",
+      "Capcom",
+      "Taito"
+    ],
+    "answer": "Sega"
+  },
+  {
     "q": "¿Accesorio light-gun de SNES?",
     "choices": [
-      "Light Phaser",
-      "Menacer",
+      "Super Scope",
       "Zapper",
-      "Super Scope"
+      "Menacer",
+      "Light Phaser"
     ],
     "answer": "Super Scope"
   },
   {
-    "q": "¿Juego de dianas loco de Namco?",
+    "q": "En House of the Dead predominan…",
     "choices": [
-      "Operation Wolf",
-      "Carnevil",
+      "Robots",
+      "Zombis",
+      "Soldados",
+      "Aliens"
+    ],
+    "answer": "Zombis"
+  },
+  {
+    "q": "Juego de dianas loco de Namco",
+    "choices": [
+      "Point Blank",
       "Police Trainer",
-      "Point Blank"
+      "Operation Wolf",
+      "Carnevil"
     ],
     "answer": "Point Blank"
   },
   {
-    "q": "¿Pistola moderna que detecta bordes en LCD?",
+    "q": "Sistema con LEDs IR en el marco",
     "choices": [
+      "Gun4IR",
+      "Sinden Lightgun",
+      "GunCon 2",
+      "AimTrak"
+    ],
+    "answer": "Gun4IR"
+  },
+  {
+    "q": "Pistola que detecta el borde en LCD",
+    "choices": [
+      "Sinden Lightgun",
       "GunCon 2",
       "Zapper",
-      "Sinden Lightgun",
       "Justifier"
     ],
     "answer": "Sinden Lightgun"
   },
   {
-    "q": "¿Quién desarrolló Virtua Cop?",
+    "q": "Light-gun policial de Taito (1987)",
+    "choices": [
+      "Operation Thunderbolt",
+      "Operation Tiger",
+      "Operation Wolf",
+      "Ninja Assault"
+    ],
+    "answer": "Operation Wolf"
+  },
+  {
+    "q": "Arcade militar de SEGA (2004)",
+    "choices": [
+      "Ghost Squad",
+      "Carnevil",
+      "Time Crisis 4",
+      "Police Trainer"
+    ],
+    "answer": "Ghost Squad"
+  },
+  {
+    "q": "Serie de Konami con Justifier",
+    "choices": [
+      "Die Hard",
+      "Blue Stinger",
+      "Lethal Enforcers",
+      "Mercs"
+    ],
+    "answer": "Lethal Enforcers"
+  },
+  {
+    "q": "Recarga típica en Time Crisis",
+    "choices": [
+      "Botón A",
+      "Agacharse con pedal",
+      "Agitar pistola",
+      "Apuntar fuera"
+    ],
+    "answer": "Agacharse con pedal"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Virtua Cop'?",
+    "choices": [
+      "PlayMechanix",
+      "Sega",
+      "Atari/Midway",
+      "Namco"
+    ],
+    "answer": "Sega"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Virtua Cop 2'?",
+    "choices": [
+      "Raw Thrills",
+      "Sega",
+      "Taito",
+      "Atari/Midway"
+    ],
+    "answer": "Sega"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Virtua Cop 3'?",
+    "choices": [
+      "Namco",
+      "Raw Thrills",
+      "Sega",
+      "Konami"
+    ],
+    "answer": "Sega"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'The House of the Dead'?",
+    "choices": [
+      "Sega",
+      "PlayMechanix",
+      "Namco",
+      "Taito"
+    ],
+    "answer": "Sega"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'The House of the Dead 2'?",
+    "choices": [
+      "Taito",
+      "Namco",
+      "Sega",
+      "Konami"
+    ],
+    "answer": "Sega"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'The House of the Dead 3'?",
+    "choices": [
+      "Sega",
+      "Raw Thrills",
+      "PlayMechanix",
+      "Konami"
+    ],
+    "answer": "Sega"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Confidential Mission'?",
+    "choices": [
+      "Namco",
+      "Sega",
+      "Konami",
+      "Taito"
+    ],
+    "answer": "Sega"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Ghost Squad'?",
+    "choices": [
+      "Sega",
+      "PlayMechanix",
+      "Raw Thrills",
+      "Atari/Midway"
+    ],
+    "answer": "Sega"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Operation Ghost'?",
+    "choices": [
+      "PlayMechanix",
+      "Atari/Midway",
+      "Sega",
+      "Raw Thrills"
+    ],
+    "answer": "Sega"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Let's Go Jungle'?",
+    "choices": [
+      "PlayMechanix",
+      "Raw Thrills",
+      "Sega",
+      "Atari/Midway"
+    ],
+    "answer": "Sega"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Let's Go Island'?",
+    "choices": [
+      "Sega",
+      "Konami",
+      "Atari/Midway",
+      "Taito"
+    ],
+    "answer": "Sega"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Rambo'?",
+    "choices": [
+      "Raw Thrills",
+      "Sega",
+      "PlayMechanix",
+      "Konami"
+    ],
+    "answer": "Sega"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Gunblade NY'?",
+    "choices": [
+      "PlayMechanix",
+      "Sega",
+      "Atari/Midway",
+      "Namco"
+    ],
+    "answer": "Sega"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'L.A. Machineguns'?",
+    "choices": [
+      "Konami",
+      "Raw Thrills",
+      "PlayMechanix",
+      "Sega"
+    ],
+    "answer": "Sega"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Time Crisis'?",
+    "choices": [
+      "Namco",
+      "Taito",
+      "Atari/Midway",
+      "PlayMechanix"
+    ],
+    "answer": "Namco"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Time Crisis 2'?",
+    "choices": [
+      "Taito",
+      "PlayMechanix",
+      "Namco",
+      "Raw Thrills"
+    ],
+    "answer": "Namco"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Time Crisis 3'?",
+    "choices": [
+      "Namco",
+      "Raw Thrills",
+      "Konami",
+      "Sega"
+    ],
+    "answer": "Namco"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Time Crisis 4'?",
+    "choices": [
+      "PlayMechanix",
+      "Konami",
+      "Sega",
+      "Namco"
+    ],
+    "answer": "Namco"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Time Crisis 5'?",
+    "choices": [
+      "Konami",
+      "Atari/Midway",
+      "Namco",
+      "Sega"
+    ],
+    "answer": "Namco"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Point Blank'?",
+    "choices": [
+      "Konami",
+      "Raw Thrills",
+      "Atari/Midway",
+      "Namco"
+    ],
+    "answer": "Namco"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Crisis Zone'?",
+    "choices": [
+      "Namco",
+      "Atari/Midway",
+      "Raw Thrills",
+      "Taito"
+    ],
+    "answer": "Namco"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Razing Storm'?",
+    "choices": [
+      "Atari/Midway",
+      "Konami",
+      "PlayMechanix",
+      "Namco"
+    ],
+    "answer": "Namco"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Deadstorm Pirates'?",
+    "choices": [
+      "PlayMechanix",
+      "Namco",
+      "Konami",
+      "Sega"
+    ],
+    "answer": "Namco"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Operation Wolf'?",
+    "choices": [
+      "Taito",
+      "Atari/Midway",
+      "Konami",
+      "PlayMechanix"
+    ],
+    "answer": "Taito"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Operation Thunderbolt'?",
+    "choices": [
+      "Sega",
+      "Taito",
+      "Atari/Midway",
+      "Konami"
+    ],
+    "answer": "Taito"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Operation Tiger'?",
+    "choices": [
+      "Taito",
+      "Konami",
+      "Atari/Midway",
+      "PlayMechanix"
+    ],
+    "answer": "Taito"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Operation Wolf Returns'?",
+    "choices": [
+      "Taito",
+      "Namco",
+      "Konami",
+      "Sega"
+    ],
+    "answer": "Taito"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Lethal Enforcers'?",
+    "choices": [
+      "Sega",
+      "Raw Thrills",
+      "Konami",
+      "Atari/Midway"
+    ],
+    "answer": "Konami"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Silent Scope'?",
+    "choices": [
+      "Namco",
+      "Konami",
+      "Sega",
+      "Taito"
+    ],
+    "answer": "Konami"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Silent Scope 2'?",
+    "choices": [
+      "PlayMechanix",
+      "Konami",
+      "Sega",
+      "Namco"
+    ],
+    "answer": "Konami"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Ninja Assault'?",
+    "choices": [
+      "Konami",
+      "Taito",
+      "Namco",
+      "PlayMechanix"
+    ],
+    "answer": "Konami"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Area 51'?",
+    "choices": [
+      "Namco",
+      "Atari/Midway",
+      "PlayMechanix",
+      "Raw Thrills"
+    ],
+    "answer": "Atari/Midway"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Maximum Force'?",
+    "choices": [
+      "Atari/Midway",
+      "Raw Thrills",
+      "PlayMechanix",
+      "Namco"
+    ],
+    "answer": "Atari/Midway"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Revolution X'?",
+    "choices": [
+      "Konami",
+      "Namco",
+      "Raw Thrills",
+      "Atari/Midway"
+    ],
+    "answer": "Atari/Midway"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Carnevil'?",
+    "choices": [
+      "Namco",
+      "Atari/Midway",
+      "Taito",
+      "Sega"
+    ],
+    "answer": "Atari/Midway"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Terminator Salvation'?",
+    "choices": [
+      "PlayMechanix",
+      "Namco",
+      "Taito",
+      "Raw Thrills"
+    ],
+    "answer": "Raw Thrills"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Jurassic Park Arcade'?",
+    "choices": [
+      "Raw Thrills",
+      "PlayMechanix",
+      "Namco",
+      "Atari/Midway"
+    ],
+    "answer": "Raw Thrills"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Aliens Armageddon'?",
+    "choices": [
+      "Raw Thrills",
+      "Atari/Midway",
+      "Sega",
+      "Taito"
+    ],
+    "answer": "Raw Thrills"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Target: Terror'?",
+    "choices": [
+      "PlayMechanix",
+      "Atari/Midway",
+      "Namco",
+      "Raw Thrills"
+    ],
+    "answer": "PlayMechanix"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Big Buck Hunter'?",
+    "choices": [
+      "Sega",
+      "Taito",
+      "Atari/Midway",
+      "PlayMechanix"
+    ],
+    "answer": "PlayMechanix"
+  },
+  {
+    "q": "¿Accesorio oficial asociado a NES para pistolas de luz?",
+    "choices": [
+      "Super Scope",
+      "Menacer",
+      "GunCon 3",
+      "Zapper"
+    ],
+    "answer": "Zapper"
+  },
+  {
+    "q": "¿Accesorio oficial asociado a SNES para pistolas de luz?",
+    "choices": [
+      "Zapper",
+      "Super Scope",
+      "Menacer",
+      "Wii Zapper"
+    ],
+    "answer": "Super Scope"
+  },
+  {
+    "q": "¿Accesorio oficial asociado a Master System para pistolas de luz?",
+    "choices": [
+      "Super Scope",
+      "Light Phaser",
+      "Menacer",
+      "Zapper"
+    ],
+    "answer": "Light Phaser"
+  },
+  {
+    "q": "¿Accesorio oficial asociado a Mega Drive/Genesis para pistolas de luz?",
+    "choices": [
+      "GunCon 3",
+      "Super Scope",
+      "Menacer",
+      "GunCon 2"
+    ],
+    "answer": "Menacer"
+  },
+  {
+    "q": "¿Accesorio oficial asociado a PS1 para pistolas de luz?",
+    "choices": [
+      "Wii Zapper",
+      "G‑Con 45",
+      "GunCon 2",
+      "Zapper"
+    ],
+    "answer": "G‑Con 45"
+  },
+  {
+    "q": "¿Accesorio oficial asociado a PS2 para pistolas de luz?",
+    "choices": [
+      "G‑Con 45",
+      "GunCon 2",
+      "Super Scope",
+      "Light Phaser"
+    ],
+    "answer": "GunCon 2"
+  },
+  {
+    "q": "¿Accesorio oficial asociado a PS3 para pistolas de luz?",
+    "choices": [
+      "GunCon 3",
+      "G‑Con 45",
+      "Light Phaser",
+      "Zapper"
+    ],
+    "answer": "GunCon 3"
+  },
+  {
+    "q": "¿Accesorio oficial asociado a Wii para pistolas de luz?",
+    "choices": [
+      "Wii Zapper",
+      "GunCon 2",
+      "GunCon 3",
+      "Light Phaser"
+    ],
+    "answer": "Wii Zapper"
+  },
+  {
+    "q": "¿Qué sistema moderno usa LEDs IR en las esquinas del marco?",
+    "choices": [
+      "AimTrak",
+      "Sinden Lightgun",
+      "Gun4IR",
+      "Wiimote + DolphinBar"
+    ],
+    "answer": "Gun4IR"
+  },
+  {
+    "q": "¿Qué pistola moderna detecta bordes de pantalla sin barra IR?",
+    "choices": [
+      "Sinden Lightgun",
+      "Wiimote + DolphinBar",
+      "Gun4IR",
+      "AimTrak"
+    ],
+    "answer": "Sinden Lightgun"
+  },
+  {
+    "q": "¿Qué light-gun USB popular suele usarse con barra IR?",
+    "choices": [
+      "Gun4IR",
+      "Sinden Lightgun",
+      "Wiimote + DolphinBar",
+      "AimTrak"
+    ],
+    "answer": "AimTrak"
+  },
+  {
+    "q": "¿Qué combo se usa a menudo para jugar en PC?",
+    "choices": [
+      "Wiimote + DolphinBar",
+      "AimTrak",
+      "Sinden Lightgun",
+      "Gun4IR"
+    ],
+    "answer": "Wiimote + DolphinBar"
+  },
+  {
+    "q": "¿En qué saga recargas al *agacharte* con pedal?",
+    "choices": [
+      "Point Blank",
+      "Virtua Cop",
+      "Time Crisis",
+      "Police Trainer"
+    ],
+    "answer": "Time Crisis"
+  },
+  {
+    "q": "¿En qué saga recargas al *agacharte* con pedal?",
+    "choices": [
+      "Police Trainer",
+      "Virtua Cop",
+      "Time Crisis",
+      "Point Blank"
+    ],
+    "answer": "Time Crisis"
+  },
+  {
+    "q": "¿En qué saga recargas al *agacharte* con pedal?",
+    "choices": [
+      "Police Trainer",
+      "Time Crisis",
+      "Virtua Cop",
+      "Point Blank"
+    ],
+    "answer": "Time Crisis"
+  },
+  {
+    "q": "¿En qué saga recargas al *agacharte* con pedal?",
+    "choices": [
+      "Virtua Cop",
+      "Time Crisis",
+      "Point Blank",
+      "Police Trainer"
+    ],
+    "answer": "Time Crisis"
+  },
+  {
+    "q": "¿Qué saga de SEGA presenta agentes secretos con puntería?",
+    "choices": [
+      "Ghost Squad",
+      "Rambo",
+      "Time Crisis",
+      "Confidential Mission"
+    ],
+    "answer": "Confidential Mission"
+  },
+  {
+    "q": "¿Qué saga de SEGA presenta agentes secretos con puntería?",
+    "choices": [
+      "Confidential Mission",
+      "Rambo",
+      "Time Crisis",
+      "Ghost Squad"
+    ],
+    "answer": "Confidential Mission"
+  },
+  {
+    "q": "¿Qué saga de SEGA presenta agentes secretos con puntería?",
+    "choices": [
+      "Time Crisis",
+      "Ghost Squad",
+      "Rambo",
+      "Confidential Mission"
+    ],
+    "answer": "Confidential Mission"
+  },
+  {
+    "q": "¿Qué saga de SEGA presenta agentes secretos con puntería?",
+    "choices": [
+      "Confidential Mission",
+      "Rambo",
+      "Time Crisis",
+      "Ghost Squad"
+    ],
+    "answer": "Confidential Mission"
+  },
+  {
+    "q": "¿Cuál usa escudo balístico?",
+    "choices": [
+      "Razing Storm",
+      "Crisis Zone",
+      "Endgame",
+      "Virtua Cop 3"
+    ],
+    "answer": "Crisis Zone"
+  },
+  {
+    "q": "¿Cuál usa escudo balístico?",
+    "choices": [
+      "Endgame",
+      "Crisis Zone",
+      "Virtua Cop 3",
+      "Razing Storm"
+    ],
+    "answer": "Crisis Zone"
+  },
+  {
+    "q": "¿Cuál usa escudo balístico?",
+    "choices": [
+      "Crisis Zone",
+      "Virtua Cop 3",
+      "Endgame",
+      "Razing Storm"
+    ],
+    "answer": "Crisis Zone"
+  },
+  {
+    "q": "¿Cuál usa escudo balístico?",
+    "choices": [
+      "Virtua Cop 3",
+      "Crisis Zone",
+      "Razing Storm",
+      "Endgame"
+    ],
+    "answer": "Crisis Zone"
+  },
+  {
+    "q": "¿Qué pantalla es ideal para pistolas ópticas clásicas?",
+    "choices": [
+      "Plasma",
+      "OLED",
+      "LCD",
+      "CRT"
+    ],
+    "answer": "CRT"
+  },
+  {
+    "q": "¿Qué pantalla es ideal para pistolas ópticas clásicas?",
+    "choices": [
+      "Plasma",
+      "CRT",
+      "OLED",
+      "LCD"
+    ],
+    "answer": "CRT"
+  },
+  {
+    "q": "¿Qué pantalla es ideal para pistolas ópticas clásicas?",
+    "choices": [
+      "CRT",
+      "Plasma",
+      "LCD",
+      "OLED"
+    ],
+    "answer": "CRT"
+  },
+  {
+    "q": "¿Qué pantalla es ideal para pistolas ópticas clásicas?",
+    "choices": [
+      "Plasma",
+      "CRT",
+      "LCD",
+      "OLED"
+    ],
+    "answer": "CRT"
+  },
+  {
+    "q": "¿Qué frontend integra EmulationStation en Windows?",
+    "choices": [
+      "RetroBat",
+      "Recalbox",
+      "Batocera",
+      "OpenEmu"
+    ],
+    "answer": "RetroBat"
+  },
+  {
+    "q": "¿Qué frontend integra EmulationStation en Windows?",
+    "choices": [
+      "Batocera",
+      "Recalbox",
+      "OpenEmu",
+      "RetroBat"
+    ],
+    "answer": "RetroBat"
+  },
+  {
+    "q": "¿Qué frontend integra EmulationStation en Windows?",
+    "choices": [
+      "Recalbox",
+      "Batocera",
+      "OpenEmu",
+      "RetroBat"
+    ],
+    "answer": "RetroBat"
+  },
+  {
+    "q": "¿Qué frontend integra EmulationStation en Windows?",
+    "choices": [
+      "Batocera",
+      "RetroBat",
+      "Recalbox",
+      "OpenEmu"
+    ],
+    "answer": "RetroBat"
+  },
+  {
+    "q": "¿Qué launcher corre arcades recientes en Windows?",
+    "choices": [
+      "PCSX2",
+      "MAME",
+      "TeknoParrot",
+      "RetroArch"
+    ],
+    "answer": "TeknoParrot"
+  },
+  {
+    "q": "¿Qué launcher corre arcades recientes en Windows?",
+    "choices": [
+      "TeknoParrot",
+      "RetroArch",
+      "PCSX2",
+      "MAME"
+    ],
+    "answer": "TeknoParrot"
+  },
+  {
+    "q": "¿Qué launcher corre arcades recientes en Windows?",
+    "choices": [
+      "TeknoParrot",
+      "MAME",
+      "PCSX2",
+      "RetroArch"
+    ],
+    "answer": "TeknoParrot"
+  },
+  {
+    "q": "¿Qué launcher corre arcades recientes en Windows?",
+    "choices": [
+      "MAME",
+      "RetroArch",
+      "TeknoParrot",
+      "PCSX2"
+    ],
+    "answer": "TeknoParrot"
+  },
+  {
+    "q": "Spinoff light-gun de Resident Evil en PS2",
+    "choices": [
+      "Dino Stalker",
+      "Outbreak",
+      "Survivor",
+      "Dead Aim"
+    ],
+    "answer": "Dino Stalker"
+  },
+  {
+    "q": "Spinoff light-gun de Resident Evil en PS2",
+    "choices": [
+      "Dino Stalker",
+      "Survivor",
+      "Outbreak",
+      "Dead Aim"
+    ],
+    "answer": "Dino Stalker"
+  },
+  {
+    "q": "Spinoff light-gun de Resident Evil en PS2",
+    "choices": [
+      "Dead Aim",
+      "Outbreak",
+      "Dino Stalker",
+      "Survivor"
+    ],
+    "answer": "Dino Stalker"
+  },
+  {
+    "q": "Spinoff light-gun de Resident Evil en PS2",
+    "choices": [
+      "Dead Aim",
+      "Survivor",
+      "Dino Stalker",
+      "Outbreak"
+    ],
+    "answer": "Dino Stalker"
+  },
+  {
+    "q": "Light-gun de terror gore de Midway",
+    "choices": [
+      "Alien 3: The Gun",
+      "Dark Escape 4D",
+      "Carnevil",
+      "Area 51"
+    ],
+    "answer": "Carnevil"
+  },
+  {
+    "q": "Light-gun de terror gore de Midway",
+    "choices": [
+      "Alien 3: The Gun",
+      "Dark Escape 4D",
+      "Carnevil",
+      "Area 51"
+    ],
+    "answer": "Carnevil"
+  },
+  {
+    "q": "Light-gun de terror gore de Midway",
+    "choices": [
+      "Area 51",
+      "Carnevil",
+      "Dark Escape 4D",
+      "Alien 3: The Gun"
+    ],
+    "answer": "Carnevil"
+  },
+  {
+    "q": "Light-gun de terror gore de Midway",
+    "choices": [
+      "Dark Escape 4D",
+      "Carnevil",
+      "Area 51",
+      "Alien 3: The Gun"
+    ],
+    "answer": "Carnevil"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'The House of the Dead 3'? (curiosidad)",
+    "choices": [
+      "Sega",
+      "Raw Thrills",
+      "Konami",
+      "PlayMechanix"
+    ],
+    "answer": "Sega"
+  },
+  {
+    "q": "¿Accesorio oficial asociado a PS1 para pistolas de luz? (curiosidad)",
+    "choices": [
+      "Zapper",
+      "Wii Zapper",
+      "G‑Con 45",
+      "GunCon 2"
+    ],
+    "answer": "G‑Con 45"
+  },
+  {
+    "q": "Juego de dianas loco de Namco (hardware)",
+    "choices": [
+      "Carnevil",
+      "Police Trainer",
+      "Point Blank",
+      "Operation Wolf"
+    ],
+    "answer": "Point Blank"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Revolution X'? (historia)",
+    "choices": [
+      "Atari/Midway",
+      "Konami",
+      "Namco",
+      "Raw Thrills"
+    ],
+    "answer": "Atari/Midway"
+  },
+  {
+    "q": "¿Qué frontend integra EmulationStation en Windows? (arcade clásico)",
+    "choices": [
+      "Recalbox",
+      "Batocera",
+      "RetroBat",
+      "OpenEmu"
+    ],
+    "answer": "RetroBat"
+  },
+  {
+    "q": "¿Qué launcher corre arcades recientes en Windows? (versión doméstica)",
+    "choices": [
+      "MAME",
+      "TeknoParrot",
+      "PCSX2",
+      "RetroArch"
+    ],
+    "answer": "TeknoParrot"
+  },
+  {
+    "q": "¿Qué launcher corre arcades recientes en Windows? (curiosidad)",
+    "choices": [
+      "RetroArch",
+      "PCSX2",
+      "TeknoParrot",
+      "MAME"
+    ],
+    "answer": "TeknoParrot"
+  },
+  {
+    "q": "Sistema con LEDs IR en el marco (hardware)",
+    "choices": [
+      "GunCon 2",
+      "Gun4IR",
+      "Sinden Lightgun",
+      "AimTrak"
+    ],
+    "answer": "Gun4IR"
+  },
+  {
+    "q": "¿Qué saga de SEGA presenta agentes secretos con puntería? (arcade clásico)",
+    "choices": [
+      "Confidential Mission",
+      "Time Crisis",
+      "Rambo",
+      "Ghost Squad"
+    ],
+    "answer": "Confidential Mission"
+  },
+  {
+    "q": "Recarga típica en Time Crisis (curiosidad)",
+    "choices": [
+      "Apuntar fuera",
+      "Agitar pistola",
+      "Botón A",
+      "Agacharse con pedal"
+    ],
+    "answer": "Agacharse con pedal"
+  },
+  {
+    "q": "Recarga típica en Time Crisis (detalles técnicos)",
+    "choices": [
+      "Agitar pistola",
+      "Botón A",
+      "Apuntar fuera",
+      "Agacharse con pedal"
+    ],
+    "answer": "Agacharse con pedal"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Area 51'? (hardware)",
+    "choices": [
+      "Raw Thrills",
+      "Atari/Midway",
+      "Namco",
+      "PlayMechanix"
+    ],
+    "answer": "Atari/Midway"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Confidential Mission'? (versión doméstica)",
+    "choices": [
+      "Konami",
+      "Taito",
+      "Namco",
+      "Sega"
+    ],
+    "answer": "Sega"
+  },
+  {
+    "q": "¿En qué saga recargas al *agacharte* con pedal? (versión doméstica)",
+    "choices": [
+      "Time Crisis",
+      "Virtua Cop",
+      "Point Blank",
+      "Police Trainer"
+    ],
+    "answer": "Time Crisis"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Time Crisis'? (arcade clásico)",
+    "choices": [
+      "Atari/Midway",
+      "Taito",
+      "PlayMechanix",
+      "Namco"
+    ],
+    "answer": "Namco"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Operation Ghost'? (detalles técnicos)",
+    "choices": [
+      "PlayMechanix",
+      "Sega",
+      "Raw Thrills",
+      "Atari/Midway"
+    ],
+    "answer": "Sega"
+  },
+  {
+    "q": "Pistola que detecta el borde en LCD (detalles técnicos)",
+    "choices": [
+      "Justifier",
+      "GunCon 2",
+      "Sinden Lightgun",
+      "Zapper"
+    ],
+    "answer": "Sinden Lightgun"
+  },
+  {
+    "q": "¿Cuál usa escudo balístico? (historia)",
+    "choices": [
+      "Crisis Zone",
+      "Endgame",
+      "Razing Storm",
+      "Virtua Cop 3"
+    ],
+    "answer": "Crisis Zone"
+  },
+  {
+    "q": "Serie de Konami con Justifier (curiosidad)",
+    "choices": [
+      "Die Hard",
+      "Lethal Enforcers",
+      "Mercs",
+      "Blue Stinger"
+    ],
+    "answer": "Lethal Enforcers"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Maximum Force'? (hardware)",
+    "choices": [
+      "Namco",
+      "PlayMechanix",
+      "Raw Thrills",
+      "Atari/Midway"
+    ],
+    "answer": "Atari/Midway"
+  },
+  {
+    "q": "Light-gun de terror gore de Midway (curiosidad)",
+    "choices": [
+      "Dark Escape 4D",
+      "Area 51",
+      "Alien 3: The Gun",
+      "Carnevil"
+    ],
+    "answer": "Carnevil"
+  },
+  {
+    "q": "¿Cuál usa escudo balístico? (arcade clásico)",
+    "choices": [
+      "Virtua Cop 3",
+      "Crisis Zone",
+      "Razing Storm",
+      "Endgame"
+    ],
+    "answer": "Crisis Zone"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Silent Scope 2'? (versión doméstica)",
+    "choices": [
+      "Namco",
+      "Konami",
+      "PlayMechanix",
+      "Sega"
+    ],
+    "answer": "Konami"
+  },
+  {
+    "q": "¿Qué pantalla es ideal para pistolas ópticas clásicas? (arcade clásico)",
+    "choices": [
+      "Plasma",
+      "LCD",
+      "CRT",
+      "OLED"
+    ],
+    "answer": "CRT"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Big Buck Hunter'? (arcade clásico)",
+    "choices": [
+      "PlayMechanix",
+      "Atari/Midway",
+      "Taito",
+      "Sega"
+    ],
+    "answer": "PlayMechanix"
+  },
+  {
+    "q": "¿Accesorio light-gun de SNES? (curiosidad)",
+    "choices": [
+      "Zapper",
+      "Menacer",
+      "Light Phaser",
+      "Super Scope"
+    ],
+    "answer": "Super Scope"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Revolution X'? (curiosidad)",
+    "choices": [
+      "Atari/Midway",
+      "Konami",
+      "Raw Thrills",
+      "Namco"
+    ],
+    "answer": "Atari/Midway"
+  },
+  {
+    "q": "¿Qué saga de Namco usa pedal para cubrirse? (detalles técnicos)",
+    "choices": [
+      "The House of the Dead",
+      "Area 51",
+      "Time Crisis",
+      "Virtua Cop"
+    ],
+    "answer": "Time Crisis"
+  },
+  {
+    "q": "¿Accesorio oficial asociado a SNES para pistolas de luz? (hardware)",
+    "choices": [
+      "Menacer",
+      "Wii Zapper",
+      "Super Scope",
+      "Zapper"
+    ],
+    "answer": "Super Scope"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Crisis Zone'? (detalles técnicos)",
+    "choices": [
+      "Taito",
+      "Raw Thrills",
+      "Namco",
+      "Atari/Midway"
+    ],
+    "answer": "Namco"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Time Crisis 2'? (curiosidad)",
+    "choices": [
+      "Raw Thrills",
+      "Namco",
+      "PlayMechanix",
+      "Taito"
+    ],
+    "answer": "Namco"
+  },
+  {
+    "q": "¿Accesorio oficial asociado a PS3 para pistolas de luz? (hardware)",
+    "choices": [
+      "Zapper",
+      "GunCon 3",
+      "Light Phaser",
+      "G‑Con 45"
+    ],
+    "answer": "GunCon 3"
+  },
+  {
+    "q": "Arcade militar de SEGA (2004) (hardware)",
+    "choices": [
+      "Ghost Squad",
+      "Police Trainer",
+      "Time Crisis 4",
+      "Carnevil"
+    ],
+    "answer": "Ghost Squad"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Point Blank'? (historia)",
+    "choices": [
+      "Namco",
+      "Raw Thrills",
+      "Atari/Midway",
+      "Konami"
+    ],
+    "answer": "Namco"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Operation Thunderbolt'? (versión doméstica)",
+    "choices": [
+      "Taito",
+      "Konami",
+      "Atari/Midway",
+      "Sega"
+    ],
+    "answer": "Taito"
+  },
+  {
+    "q": "¿En qué saga recargas al *agacharte* con pedal? (arcade clásico)",
+    "choices": [
+      "Time Crisis",
+      "Police Trainer",
+      "Point Blank",
+      "Virtua Cop"
+    ],
+    "answer": "Time Crisis"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Operation Tiger'? (historia)",
+    "choices": [
+      "PlayMechanix",
+      "Taito",
+      "Konami",
+      "Atari/Midway"
+    ],
+    "answer": "Taito"
+  },
+  {
+    "q": "¿En qué saga recargas al *agacharte* con pedal? (hardware)",
+    "choices": [
+      "Point Blank",
+      "Time Crisis",
+      "Police Trainer",
+      "Virtua Cop"
+    ],
+    "answer": "Time Crisis"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Time Crisis 5'? (hardware)",
+    "choices": [
+      "Atari/Midway",
+      "Namco",
+      "Sega",
+      "Konami"
+    ],
+    "answer": "Namco"
+  },
+  {
+    "q": "¿En qué saga recargas al *agacharte* con pedal? (arcade clásico)",
+    "choices": [
+      "Virtua Cop",
+      "Time Crisis",
+      "Police Trainer",
+      "Point Blank"
+    ],
+    "answer": "Time Crisis"
+  },
+  {
+    "q": "¿En qué saga recargas al *agacharte* con pedal? (curiosidad)",
+    "choices": [
+      "Virtua Cop",
+      "Police Trainer",
+      "Time Crisis",
+      "Point Blank"
+    ],
+    "answer": "Time Crisis"
+  },
+  {
+    "q": "¿Qué launcher corre arcades recientes en Windows? (versión doméstica)",
+    "choices": [
+      "PCSX2",
+      "RetroArch",
+      "MAME",
+      "TeknoParrot"
+    ],
+    "answer": "TeknoParrot"
+  },
+  {
+    "q": "¿Qué saga de SEGA presenta agentes secretos con puntería? (historia)",
+    "choices": [
+      "Rambo",
+      "Time Crisis",
+      "Confidential Mission",
+      "Ghost Squad"
+    ],
+    "answer": "Confidential Mission"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'The House of the Dead 3'? (detalles técnicos)",
+    "choices": [
+      "Sega",
+      "Raw Thrills",
+      "PlayMechanix",
+      "Konami"
+    ],
+    "answer": "Sega"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Jurassic Park Arcade'? (hardware)",
+    "choices": [
+      "Atari/Midway",
+      "PlayMechanix",
+      "Raw Thrills",
+      "Namco"
+    ],
+    "answer": "Raw Thrills"
+  },
+  {
+    "q": "Sistema con LEDs IR en el marco (curiosidad)",
+    "choices": [
+      "AimTrak",
+      "GunCon 2",
+      "Gun4IR",
+      "Sinden Lightgun"
+    ],
+    "answer": "Gun4IR"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Ninja Assault'? (detalles técnicos)",
+    "choices": [
+      "PlayMechanix",
+      "Namco",
+      "Konami",
+      "Taito"
+    ],
+    "answer": "Konami"
+  },
+  {
+    "q": "¿Qué saga de SEGA presenta agentes secretos con puntería? (curiosidad)",
+    "choices": [
+      "Rambo",
+      "Ghost Squad",
+      "Time Crisis",
+      "Confidential Mission"
+    ],
+    "answer": "Confidential Mission"
+  },
+  {
+    "q": "¿Qué frontend integra EmulationStation en Windows? (hardware)",
+    "choices": [
+      "RetroBat",
+      "Recalbox",
+      "Batocera",
+      "OpenEmu"
+    ],
+    "answer": "RetroBat"
+  },
+  {
+    "q": "¿Qué launcher corre arcades recientes en Windows? (curiosidad)",
+    "choices": [
+      "RetroArch",
+      "MAME",
+      "PCSX2",
+      "TeknoParrot"
+    ],
+    "answer": "TeknoParrot"
+  },
+  {
+    "q": "¿En qué saga recargas al *agacharte* con pedal? (hardware)",
+    "choices": [
+      "Police Trainer",
+      "Point Blank",
+      "Time Crisis",
+      "Virtua Cop"
+    ],
+    "answer": "Time Crisis"
+  },
+  {
+    "q": "Sistema con LEDs IR en el marco (curiosidad)",
+    "choices": [
+      "GunCon 2",
+      "Sinden Lightgun",
+      "Gun4IR",
+      "AimTrak"
+    ],
+    "answer": "Gun4IR"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Let's Go Island'? (historia)",
+    "choices": [
+      "Taito",
+      "Sega",
+      "Atari/Midway",
+      "Konami"
+    ],
+    "answer": "Sega"
+  },
+  {
+    "q": "¿Qué pantalla es ideal para pistolas ópticas clásicas? (detalles técnicos)",
+    "choices": [
+      "CRT",
+      "LCD",
+      "Plasma",
+      "OLED"
+    ],
+    "answer": "CRT"
+  },
+  {
+    "q": "¿Qué saga de SEGA presenta agentes secretos con puntería? (arcade clásico)",
+    "choices": [
+      "Time Crisis",
+      "Confidential Mission",
+      "Ghost Squad",
+      "Rambo"
+    ],
+    "answer": "Confidential Mission"
+  },
+  {
+    "q": "¿Qué saga de SEGA presenta agentes secretos con puntería? (hardware)",
+    "choices": [
+      "Ghost Squad",
+      "Confidential Mission",
+      "Rambo",
+      "Time Crisis"
+    ],
+    "answer": "Confidential Mission"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Silent Scope 2'? (versión doméstica)",
+    "choices": [
+      "Namco",
+      "PlayMechanix",
+      "Sega",
+      "Konami"
+    ],
+    "answer": "Konami"
+  },
+  {
+    "q": "¿Accesorio oficial asociado a Master System para pistolas de luz? (hardware)",
+    "choices": [
+      "Light Phaser",
+      "Super Scope",
+      "Zapper",
+      "Menacer"
+    ],
+    "answer": "Light Phaser"
+  },
+  {
+    "q": "¿Qué frontend integra EmulationStation en Windows? (curiosidad)",
+    "choices": [
+      "RetroBat",
+      "Recalbox",
+      "Batocera",
+      "OpenEmu"
+    ],
+    "answer": "RetroBat"
+  },
+  {
+    "q": "¿Cuál usa escudo balístico? (versión doméstica)",
+    "choices": [
+      "Razing Storm",
+      "Endgame",
+      "Crisis Zone",
+      "Virtua Cop 3"
+    ],
+    "answer": "Crisis Zone"
+  },
+  {
+    "q": "¿Qué saga de SEGA presenta agentes secretos con puntería? (historia)",
+    "choices": [
+      "Time Crisis",
+      "Confidential Mission",
+      "Ghost Squad",
+      "Rambo"
+    ],
+    "answer": "Confidential Mission"
+  },
+  {
+    "q": "¿En qué saga recargas al *agacharte* con pedal? (arcade clásico)",
+    "choices": [
+      "Time Crisis",
+      "Virtua Cop",
+      "Police Trainer",
+      "Point Blank"
+    ],
+    "answer": "Time Crisis"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Carnevil'? (curiosidad)",
+    "choices": [
+      "Taito",
+      "Namco",
+      "Atari/Midway",
+      "Sega"
+    ],
+    "answer": "Atari/Midway"
+  },
+  {
+    "q": "¿Accesorio oficial asociado a PS2 para pistolas de luz? (hardware)",
+    "choices": [
+      "Light Phaser",
+      "G‑Con 45",
+      "Super Scope",
+      "GunCon 2"
+    ],
+    "answer": "GunCon 2"
+  },
+  {
+    "q": "¿Accesorio oficial asociado a PS1 para pistolas de luz? (hardware)",
+    "choices": [
+      "Wii Zapper",
+      "G‑Con 45",
+      "GunCon 2",
+      "Zapper"
+    ],
+    "answer": "G‑Con 45"
+  },
+  {
+    "q": "Arcade militar de SEGA (2004) (arcade clásico)",
+    "choices": [
+      "Time Crisis 4",
+      "Carnevil",
+      "Ghost Squad",
+      "Police Trainer"
+    ],
+    "answer": "Ghost Squad"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Operation Ghost'? (detalles técnicos)",
+    "choices": [
+      "Sega",
+      "Atari/Midway",
+      "PlayMechanix",
+      "Raw Thrills"
+    ],
+    "answer": "Sega"
+  },
+  {
+    "q": "Juego de dianas loco de Namco (curiosidad)",
+    "choices": [
+      "Point Blank",
+      "Carnevil",
+      "Operation Wolf",
+      "Police Trainer"
+    ],
+    "answer": "Point Blank"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Operation Ghost'? (detalles técnicos)",
+    "choices": [
+      "Sega",
+      "Raw Thrills",
+      "PlayMechanix",
+      "Atari/Midway"
+    ],
+    "answer": "Sega"
+  },
+  {
+    "q": "¿Qué saga de SEGA presenta agentes secretos con puntería? (versión doméstica)",
+    "choices": [
+      "Confidential Mission",
+      "Time Crisis",
+      "Ghost Squad",
+      "Rambo"
+    ],
+    "answer": "Confidential Mission"
+  },
+  {
+    "q": "¿Accesorio oficial asociado a PS1 para pistolas de luz? (arcade clásico)",
+    "choices": [
+      "Wii Zapper",
+      "GunCon 2",
+      "G‑Con 45",
+      "Zapper"
+    ],
+    "answer": "G‑Con 45"
+  },
+  {
+    "q": "Pistola que detecta el borde en LCD (arcade clásico)",
+    "choices": [
+      "GunCon 2",
+      "Sinden Lightgun",
+      "Justifier",
+      "Zapper"
+    ],
+    "answer": "Sinden Lightgun"
+  },
+  {
+    "q": "¿Quién desarrolló Virtua Cop? (curiosidad)",
+    "choices": [
+      "Taito",
+      "Capcom",
+      "Sega",
+      "Konami"
+    ],
+    "answer": "Sega"
+  },
+  {
+    "q": "Light-gun policial de Taito (1987) (arcade clásico)",
+    "choices": [
+      "Operation Wolf",
+      "Ninja Assault",
+      "Operation Tiger",
+      "Operation Thunderbolt"
+    ],
+    "answer": "Operation Wolf"
+  },
+  {
+    "q": "¿Accesorio oficial asociado a Master System para pistolas de luz? (detalles técnicos)",
+    "choices": [
+      "Menacer",
+      "Zapper",
+      "Super Scope",
+      "Light Phaser"
+    ],
+    "answer": "Light Phaser"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Time Crisis 3'? (arcade clásico)",
+    "choices": [
+      "Sega",
+      "Konami",
+      "Namco",
+      "Raw Thrills"
+    ],
+    "answer": "Namco"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'The House of the Dead 3'? (versión doméstica)",
+    "choices": [
+      "Raw Thrills",
+      "Konami",
+      "Sega",
+      "PlayMechanix"
+    ],
+    "answer": "Sega"
+  },
+  {
+    "q": "¿En qué saga recargas al *agacharte* con pedal? (versión doméstica)",
+    "choices": [
+      "Virtua Cop",
+      "Point Blank",
+      "Time Crisis",
+      "Police Trainer"
+    ],
+    "answer": "Time Crisis"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Operation Wolf'? (versión doméstica)",
+    "choices": [
+      "PlayMechanix",
+      "Atari/Midway",
+      "Konami",
+      "Taito"
+    ],
+    "answer": "Taito"
+  },
+  {
+    "q": "¿Qué pistola moderna detecta bordes de pantalla sin barra IR? (arcade clásico)",
+    "choices": [
+      "Gun4IR",
+      "Wiimote + DolphinBar",
+      "AimTrak",
+      "Sinden Lightgun"
+    ],
+    "answer": "Sinden Lightgun"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'The House of the Dead 2'? (curiosidad)",
+    "choices": [
+      "Sega",
+      "Namco",
+      "Konami",
+      "Taito"
+    ],
+    "answer": "Sega"
+  },
+  {
+    "q": "Light-gun de terror gore de Midway (arcade clásico)",
+    "choices": [
+      "Carnevil",
+      "Area 51",
+      "Alien 3: The Gun",
+      "Dark Escape 4D"
+    ],
+    "answer": "Carnevil"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Maximum Force'? (historia)",
+    "choices": [
+      "Raw Thrills",
+      "PlayMechanix",
+      "Namco",
+      "Atari/Midway"
+    ],
+    "answer": "Atari/Midway"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Big Buck Hunter'? (versión doméstica)",
+    "choices": [
+      "Sega",
+      "PlayMechanix",
+      "Atari/Midway",
+      "Taito"
+    ],
+    "answer": "PlayMechanix"
+  },
+  {
+    "q": "Sistema con LEDs IR en el marco (historia)",
+    "choices": [
+      "Gun4IR",
+      "AimTrak",
+      "Sinden Lightgun",
+      "GunCon 2"
+    ],
+    "answer": "Gun4IR"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Area 51'? (historia)",
+    "choices": [
+      "Atari/Midway",
+      "Namco",
+      "Raw Thrills",
+      "PlayMechanix"
+    ],
+    "answer": "Atari/Midway"
+  },
+  {
+    "q": "Sistema con LEDs IR en el marco (historia)",
+    "choices": [
+      "Sinden Lightgun",
+      "GunCon 2",
+      "Gun4IR",
+      "AimTrak"
+    ],
+    "answer": "Gun4IR"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Time Crisis 3'? (versión doméstica)",
+    "choices": [
+      "Raw Thrills",
+      "Sega",
+      "Namco",
+      "Konami"
+    ],
+    "answer": "Namco"
+  },
+  {
+    "q": "Recarga típica en Time Crisis (versión doméstica)",
+    "choices": [
+      "Agacharse con pedal",
+      "Agitar pistola",
+      "Botón A",
+      "Apuntar fuera"
+    ],
+    "answer": "Agacharse con pedal"
+  },
+  {
+    "q": "Spinoff light-gun de Resident Evil en PS2 (arcade clásico)",
+    "choices": [
+      "Dead Aim",
+      "Outbreak",
+      "Survivor",
+      "Dino Stalker"
+    ],
+    "answer": "Dino Stalker"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Virtua Cop 2'? (versión doméstica)",
+    "choices": [
+      "Atari/Midway",
+      "Sega",
+      "Raw Thrills",
+      "Taito"
+    ],
+    "answer": "Sega"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Operation Wolf'? (hardware)",
+    "choices": [
+      "Konami",
+      "Atari/Midway",
+      "PlayMechanix",
+      "Taito"
+    ],
+    "answer": "Taito"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Operation Thunderbolt'? (versión doméstica)",
+    "choices": [
+      "Taito",
+      "Atari/Midway",
+      "Konami",
+      "Sega"
+    ],
+    "answer": "Taito"
+  },
+  {
+    "q": "¿Qué frontend integra EmulationStation en Windows? (detalles técnicos)",
+    "choices": [
+      "RetroBat",
+      "OpenEmu",
+      "Batocera",
+      "Recalbox"
+    ],
+    "answer": "RetroBat"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'The House of the Dead'? (detalles técnicos)",
+    "choices": [
+      "PlayMechanix",
+      "Sega",
+      "Taito",
+      "Namco"
+    ],
+    "answer": "Sega"
+  },
+  {
+    "q": "Serie de Konami con Justifier (arcade clásico)",
+    "choices": [
+      "Blue Stinger",
+      "Die Hard",
+      "Lethal Enforcers",
+      "Mercs"
+    ],
+    "answer": "Lethal Enforcers"
+  },
+  {
+    "q": "¿Qué pantalla es ideal para pistolas ópticas clásicas? (detalles técnicos)",
+    "choices": [
+      "Plasma",
+      "CRT",
+      "OLED",
+      "LCD"
+    ],
+    "answer": "CRT"
+  },
+  {
+    "q": "¿En qué saga recargas al *agacharte* con pedal? (historia)",
+    "choices": [
+      "Virtua Cop",
+      "Police Trainer",
+      "Point Blank",
+      "Time Crisis"
+    ],
+    "answer": "Time Crisis"
+  },
+  {
+    "q": "Juego de dianas loco de Namco (detalles técnicos)",
+    "choices": [
+      "Police Trainer",
+      "Operation Wolf",
+      "Carnevil",
+      "Point Blank"
+    ],
+    "answer": "Point Blank"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'The House of the Dead 3'? (arcade clásico)",
+    "choices": [
+      "Sega",
+      "Konami",
+      "Raw Thrills",
+      "PlayMechanix"
+    ],
+    "answer": "Sega"
+  },
+  {
+    "q": "¿Accesorio oficial asociado a PS2 para pistolas de luz? (hardware)",
+    "choices": [
+      "G‑Con 45",
+      "Light Phaser",
+      "Super Scope",
+      "GunCon 2"
+    ],
+    "answer": "GunCon 2"
+  },
+  {
+    "q": "¿Qué saga de SEGA presenta agentes secretos con puntería? (hardware)",
+    "choices": [
+      "Ghost Squad",
+      "Confidential Mission",
+      "Time Crisis",
+      "Rambo"
+    ],
+    "answer": "Confidential Mission"
+  },
+  {
+    "q": "Arcade militar de SEGA (2004) (detalles técnicos)",
+    "choices": [
+      "Carnevil",
+      "Ghost Squad",
+      "Police Trainer",
+      "Time Crisis 4"
+    ],
+    "answer": "Ghost Squad"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Deadstorm Pirates'? (versión doméstica)",
+    "choices": [
+      "Namco",
+      "Konami",
+      "Sega",
+      "PlayMechanix"
+    ],
+    "answer": "Namco"
+  },
+  {
+    "q": "¿Qué saga de SEGA presenta agentes secretos con puntería? (hardware)",
+    "choices": [
+      "Rambo",
+      "Time Crisis",
+      "Confidential Mission",
+      "Ghost Squad"
+    ],
+    "answer": "Confidential Mission"
+  },
+  {
+    "q": "¿Qué saga de SEGA presenta agentes secretos con puntería? (curiosidad)",
+    "choices": [
+      "Rambo",
+      "Ghost Squad",
+      "Confidential Mission",
+      "Time Crisis"
+    ],
+    "answer": "Confidential Mission"
+  },
+  {
+    "q": "Light-gun de terror gore de Midway (detalles técnicos)",
+    "choices": [
+      "Dark Escape 4D",
+      "Carnevil",
+      "Area 51",
+      "Alien 3: The Gun"
+    ],
+    "answer": "Carnevil"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Time Crisis'? (detalles técnicos)",
+    "choices": [
+      "PlayMechanix",
+      "Atari/Midway",
+      "Namco",
+      "Taito"
+    ],
+    "answer": "Namco"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Jurassic Park Arcade'? (curiosidad)",
+    "choices": [
+      "PlayMechanix",
+      "Raw Thrills",
+      "Namco",
+      "Atari/Midway"
+    ],
+    "answer": "Raw Thrills"
+  },
+  {
+    "q": "Light-gun de terror gore de Midway (detalles técnicos)",
+    "choices": [
+      "Dark Escape 4D",
+      "Area 51",
+      "Carnevil",
+      "Alien 3: The Gun"
+    ],
+    "answer": "Carnevil"
+  },
+  {
+    "q": "¿Qué combo se usa a menudo para jugar en PC? (detalles técnicos)",
+    "choices": [
+      "Wiimote + DolphinBar",
+      "Gun4IR",
+      "Sinden Lightgun",
+      "AimTrak"
+    ],
+    "answer": "Wiimote + DolphinBar"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Target: Terror'? (hardware)",
+    "choices": [
+      "Raw Thrills",
+      "PlayMechanix",
+      "Atari/Midway",
+      "Namco"
+    ],
+    "answer": "PlayMechanix"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Rambo'? (detalles técnicos)",
+    "choices": [
+      "Sega",
+      "PlayMechanix",
+      "Konami",
+      "Raw Thrills"
+    ],
+    "answer": "Sega"
+  },
+  {
+    "q": "¿Qué launcher corre arcades recientes en Windows? (arcade clásico)",
+    "choices": [
+      "TeknoParrot",
+      "MAME",
+      "RetroArch",
+      "PCSX2"
+    ],
+    "answer": "TeknoParrot"
+  },
+  {
+    "q": "¿Qué light-gun USB popular suele usarse con barra IR? (detalles técnicos)",
+    "choices": [
+      "Gun4IR",
+      "Wiimote + DolphinBar",
+      "AimTrak",
+      "Sinden Lightgun"
+    ],
+    "answer": "AimTrak"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Lethal Enforcers'? (hardware)",
+    "choices": [
+      "Raw Thrills",
+      "Sega",
+      "Konami",
+      "Atari/Midway"
+    ],
+    "answer": "Konami"
+  },
+  {
+    "q": "Light-gun policial de Taito (1987) (historia)",
+    "choices": [
+      "Operation Tiger",
+      "Ninja Assault",
+      "Operation Wolf",
+      "Operation Thunderbolt"
+    ],
+    "answer": "Operation Wolf"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Silent Scope 2'? (curiosidad)",
+    "choices": [
+      "Sega",
+      "PlayMechanix",
+      "Konami",
+      "Namco"
+    ],
+    "answer": "Konami"
+  },
+  {
+    "q": "¿Accesorio oficial asociado a Mega Drive/Genesis para pistolas de luz? (curiosidad)",
+    "choices": [
+      "GunCon 3",
+      "GunCon 2",
+      "Super Scope",
+      "Menacer"
+    ],
+    "answer": "Menacer"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Gunblade NY'? (arcade clásico)",
+    "choices": [
+      "Namco",
+      "Atari/Midway",
+      "Sega",
+      "PlayMechanix"
+    ],
+    "answer": "Sega"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Rambo'? (arcade clásico)",
+    "choices": [
+      "Konami",
+      "Sega",
+      "PlayMechanix",
+      "Raw Thrills"
+    ],
+    "answer": "Sega"
+  },
+  {
+    "q": "¿Qué frontend integra EmulationStation en Windows? (detalles técnicos)",
+    "choices": [
+      "RetroBat",
+      "Batocera",
+      "Recalbox",
+      "OpenEmu"
+    ],
+    "answer": "RetroBat"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Operation Wolf Returns'? (hardware)",
+    "choices": [
+      "Namco",
+      "Sega",
+      "Taito",
+      "Konami"
+    ],
+    "answer": "Taito"
+  },
+  {
+    "q": "Sistema con LEDs IR en el marco (historia)",
+    "choices": [
+      "Sinden Lightgun",
+      "Gun4IR",
+      "AimTrak",
+      "GunCon 2"
+    ],
+    "answer": "Gun4IR"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Operation Wolf'? (curiosidad)",
+    "choices": [
+      "Taito",
+      "Konami",
+      "Atari/Midway",
+      "PlayMechanix"
+    ],
+    "answer": "Taito"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Crisis Zone'? (detalles técnicos)",
+    "choices": [
+      "Taito",
+      "Raw Thrills",
+      "Atari/Midway",
+      "Namco"
+    ],
+    "answer": "Namco"
+  },
+  {
+    "q": "Juego de dianas loco de Namco (historia)",
+    "choices": [
+      "Carnevil",
+      "Police Trainer",
+      "Point Blank",
+      "Operation Wolf"
+    ],
+    "answer": "Point Blank"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Rambo'? (curiosidad)",
+    "choices": [
+      "PlayMechanix",
+      "Sega",
+      "Konami",
+      "Raw Thrills"
+    ],
+    "answer": "Sega"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Point Blank'? (historia)",
+    "choices": [
+      "Konami",
+      "Namco",
+      "Raw Thrills",
+      "Atari/Midway"
+    ],
+    "answer": "Namco"
+  },
+  {
+    "q": "Serie de Konami con Justifier (hardware)",
+    "choices": [
+      "Lethal Enforcers",
+      "Die Hard",
+      "Mercs",
+      "Blue Stinger"
+    ],
+    "answer": "Lethal Enforcers"
+  },
+  {
+    "q": "¿Qué launcher corre arcades recientes en Windows? (detalles técnicos)",
+    "choices": [
+      "PCSX2",
+      "MAME",
+      "TeknoParrot",
+      "RetroArch"
+    ],
+    "answer": "TeknoParrot"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Gunblade NY'? (arcade clásico)",
+    "choices": [
+      "Namco",
+      "Sega",
+      "Atari/Midway",
+      "PlayMechanix"
+    ],
+    "answer": "Sega"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Area 51'? (curiosidad)",
+    "choices": [
+      "Atari/Midway",
+      "PlayMechanix",
+      "Namco",
+      "Raw Thrills"
+    ],
+    "answer": "Atari/Midway"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Maximum Force'? (curiosidad)",
+    "choices": [
+      "Atari/Midway",
+      "PlayMechanix",
+      "Raw Thrills",
+      "Namco"
+    ],
+    "answer": "Atari/Midway"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Lethal Enforcers'? (historia)",
+    "choices": [
+      "Atari/Midway",
+      "Konami",
+      "Sega",
+      "Raw Thrills"
+    ],
+    "answer": "Konami"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Silent Scope 2'? (historia)",
+    "choices": [
+      "Konami",
+      "Sega",
+      "PlayMechanix",
+      "Namco"
+    ],
+    "answer": "Konami"
+  },
+  {
+    "q": "¿Qué saga de SEGA presenta agentes secretos con puntería? (historia)",
+    "choices": [
+      "Time Crisis",
+      "Ghost Squad",
+      "Confidential Mission",
+      "Rambo"
+    ],
+    "answer": "Confidential Mission"
+  },
+  {
+    "q": "Juego de dianas loco de Namco (hardware)",
+    "choices": [
+      "Police Trainer",
+      "Point Blank",
+      "Operation Wolf",
+      "Carnevil"
+    ],
+    "answer": "Point Blank"
+  },
+  {
+    "q": "¿Accesorio oficial asociado a Wii para pistolas de luz? (hardware)",
+    "choices": [
+      "GunCon 2",
+      "Light Phaser",
+      "GunCon 3",
+      "Wii Zapper"
+    ],
+    "answer": "Wii Zapper"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'L.A. Machineguns'? (versión doméstica)",
+    "choices": [
+      "PlayMechanix",
+      "Raw Thrills",
+      "Konami",
+      "Sega"
+    ],
+    "answer": "Sega"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Target: Terror'? (arcade clásico)",
+    "choices": [
+      "Raw Thrills",
+      "Namco",
+      "PlayMechanix",
+      "Atari/Midway"
+    ],
+    "answer": "PlayMechanix"
+  },
+  {
+    "q": "Light-gun de terror gore de Midway (hardware)",
+    "choices": [
+      "Carnevil",
+      "Dark Escape 4D",
+      "Alien 3: The Gun",
+      "Area 51"
+    ],
+    "answer": "Carnevil"
+  },
+  {
+    "q": "Pistola que detecta el borde en LCD (versión doméstica)",
+    "choices": [
+      "Justifier",
+      "Sinden Lightgun",
+      "Zapper",
+      "GunCon 2"
+    ],
+    "answer": "Sinden Lightgun"
+  },
+  {
+    "q": "¿Quién desarrolló Virtua Cop? (arcade clásico)",
+    "choices": [
+      "Konami",
+      "Taito",
+      "Sega",
+      "Capcom"
+    ],
+    "answer": "Sega"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Virtua Cop'? (arcade clásico)",
+    "choices": [
+      "Atari/Midway",
+      "PlayMechanix",
+      "Sega",
+      "Namco"
+    ],
+    "answer": "Sega"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Revolution X'? (arcade clásico)",
+    "choices": [
+      "Atari/Midway",
+      "Konami",
+      "Namco",
+      "Raw Thrills"
+    ],
+    "answer": "Atari/Midway"
+  },
+  {
+    "q": "¿Quién desarrolló Virtua Cop? (curiosidad)",
+    "choices": [
+      "Sega",
+      "Taito",
+      "Konami",
+      "Capcom"
+    ],
+    "answer": "Sega"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'The House of the Dead 3'? (versión doméstica)",
+    "choices": [
+      "Konami",
+      "Raw Thrills",
+      "Sega",
+      "PlayMechanix"
+    ],
+    "answer": "Sega"
+  },
+  {
+    "q": "Light-gun policial de Taito (1987) (historia)",
+    "choices": [
+      "Operation Thunderbolt",
+      "Operation Tiger",
+      "Operation Wolf",
+      "Ninja Assault"
+    ],
+    "answer": "Operation Wolf"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Aliens Armageddon'? (detalles técnicos)",
+    "choices": [
+      "Sega",
+      "Atari/Midway",
+      "Taito",
+      "Raw Thrills"
+    ],
+    "answer": "Raw Thrills"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Area 51'? (versión doméstica)",
+    "choices": [
+      "Atari/Midway",
+      "Namco",
+      "PlayMechanix",
+      "Raw Thrills"
+    ],
+    "answer": "Atari/Midway"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Jurassic Park Arcade'? (detalles técnicos)",
+    "choices": [
+      "Atari/Midway",
+      "Raw Thrills",
+      "Namco",
+      "PlayMechanix"
+    ],
+    "answer": "Raw Thrills"
+  },
+  {
+    "q": "¿Accesorio oficial asociado a PS1 para pistolas de luz? (arcade clásico)",
+    "choices": [
+      "GunCon 2",
+      "Zapper",
+      "Wii Zapper",
+      "G‑Con 45"
+    ],
+    "answer": "G‑Con 45"
+  },
+  {
+    "q": "¿Qué launcher corre arcades recientes en Windows? (hardware)",
+    "choices": [
+      "PCSX2",
+      "RetroArch",
+      "TeknoParrot",
+      "MAME"
+    ],
+    "answer": "TeknoParrot"
+  },
+  {
+    "q": "¿Cuál usa escudo balístico? (versión doméstica)",
+    "choices": [
+      "Endgame",
+      "Razing Storm",
+      "Virtua Cop 3",
+      "Crisis Zone"
+    ],
+    "answer": "Crisis Zone"
+  },
+  {
+    "q": "¿Accesorio oficial asociado a Wii para pistolas de luz? (curiosidad)",
+    "choices": [
+      "Wii Zapper",
+      "GunCon 2",
+      "GunCon 3",
+      "Light Phaser"
+    ],
+    "answer": "Wii Zapper"
+  },
+  {
+    "q": "¿Qué frontend integra EmulationStation en Windows? (arcade clásico)",
+    "choices": [
+      "Recalbox",
+      "OpenEmu",
+      "RetroBat",
+      "Batocera"
+    ],
+    "answer": "RetroBat"
+  },
+  {
+    "q": "¿Accesorio oficial asociado a Master System para pistolas de luz? (versión doméstica)",
+    "choices": [
+      "Zapper",
+      "Menacer",
+      "Light Phaser",
+      "Super Scope"
+    ],
+    "answer": "Light Phaser"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Ghost Squad'? (curiosidad)",
+    "choices": [
+      "Sega",
+      "Atari/Midway",
+      "PlayMechanix",
+      "Raw Thrills"
+    ],
+    "answer": "Sega"
+  },
+  {
+    "q": "¿Cuál usa escudo balístico? (detalles técnicos)",
+    "choices": [
+      "Endgame",
+      "Virtua Cop 3",
+      "Razing Storm",
+      "Crisis Zone"
+    ],
+    "answer": "Crisis Zone"
+  },
+  {
+    "q": "Light-gun de terror gore de Midway (historia)",
+    "choices": [
+      "Dark Escape 4D",
+      "Alien 3: The Gun",
+      "Carnevil",
+      "Area 51"
+    ],
+    "answer": "Carnevil"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Area 51'? (hardware)",
+    "choices": [
+      "Namco",
+      "Raw Thrills",
+      "PlayMechanix",
+      "Atari/Midway"
+    ],
+    "answer": "Atari/Midway"
+  },
+  {
+    "q": "Spinoff light-gun de Resident Evil en PS2 (detalles técnicos)",
+    "choices": [
+      "Survivor",
+      "Dead Aim",
+      "Outbreak",
+      "Dino Stalker"
+    ],
+    "answer": "Dino Stalker"
+  },
+  {
+    "q": "¿Qué saga de SEGA presenta agentes secretos con puntería? (hardware)",
+    "choices": [
+      "Confidential Mission",
+      "Rambo",
+      "Ghost Squad",
+      "Time Crisis"
+    ],
+    "answer": "Confidential Mission"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Virtua Cop 3'? (versión doméstica)",
+    "choices": [
+      "Konami",
+      "Namco",
+      "Raw Thrills",
+      "Sega"
+    ],
+    "answer": "Sega"
+  },
+  {
+    "q": "¿Qué launcher corre arcades recientes en Windows? (versión doméstica)",
+    "choices": [
+      "RetroArch",
+      "MAME",
+      "TeknoParrot",
+      "PCSX2"
+    ],
+    "answer": "TeknoParrot"
+  },
+  {
+    "q": "¿Qué sistema moderno usa LEDs IR en las esquinas del marco? (hardware)",
+    "choices": [
+      "Gun4IR",
+      "Sinden Lightgun",
+      "Wiimote + DolphinBar",
+      "AimTrak"
+    ],
+    "answer": "Gun4IR"
+  },
+  {
+    "q": "¿Qué saga de SEGA presenta agentes secretos con puntería? (arcade clásico)",
+    "choices": [
+      "Ghost Squad",
+      "Rambo",
+      "Confidential Mission",
+      "Time Crisis"
+    ],
+    "answer": "Confidential Mission"
+  },
+  {
+    "q": "¿Cuál usa escudo balístico? (detalles técnicos)",
+    "choices": [
+      "Razing Storm",
+      "Virtua Cop 3",
+      "Endgame",
+      "Crisis Zone"
+    ],
+    "answer": "Crisis Zone"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Area 51'? (curiosidad)",
+    "choices": [
+      "Raw Thrills",
+      "Namco",
+      "Atari/Midway",
+      "PlayMechanix"
+    ],
+    "answer": "Atari/Midway"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Time Crisis'? (versión doméstica)",
+    "choices": [
+      "PlayMechanix",
+      "Taito",
+      "Namco",
+      "Atari/Midway"
+    ],
+    "answer": "Namco"
+  },
+  {
+    "q": "¿Qué frontend integra EmulationStation en Windows? (arcade clásico)",
+    "choices": [
+      "RetroBat",
+      "OpenEmu",
+      "Batocera",
+      "Recalbox"
+    ],
+    "answer": "RetroBat"
+  },
+  {
+    "q": "¿Qué pantalla es ideal para pistolas ópticas clásicas? (detalles técnicos)",
+    "choices": [
+      "CRT",
+      "OLED",
+      "LCD",
+      "Plasma"
+    ],
+    "answer": "CRT"
+  },
+  {
+    "q": "¿Accesorio oficial asociado a PS2 para pistolas de luz? (detalles técnicos)",
+    "choices": [
+      "G‑Con 45",
+      "Light Phaser",
+      "GunCon 2",
+      "Super Scope"
+    ],
+    "answer": "GunCon 2"
+  },
+  {
+    "q": "¿Cómo se llamó la pistola oficial de PS1 en Europa? (arcade clásico)",
+    "choices": [
+      "GunCon",
+      "G‑Con 45",
+      "Menacer",
+      "Justifier"
+    ],
+    "answer": "G‑Con 45"
+  },
+  {
+    "q": "¿Qué saga de SEGA presenta agentes secretos con puntería? (historia)",
+    "choices": [
+      "Time Crisis",
+      "Ghost Squad",
+      "Confidential Mission",
+      "Rambo"
+    ],
+    "answer": "Confidential Mission"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Operation Thunderbolt'? (detalles técnicos)",
+    "choices": [
+      "Sega",
+      "Konami",
+      "Atari/Midway",
+      "Taito"
+    ],
+    "answer": "Taito"
+  },
+  {
+    "q": "¿Qué frontend integra EmulationStation en Windows? (versión doméstica)",
+    "choices": [
+      "Batocera",
+      "RetroBat",
+      "Recalbox",
+      "OpenEmu"
+    ],
+    "answer": "RetroBat"
+  },
+  {
+    "q": "Serie de Konami con Justifier (versión doméstica)",
+    "choices": [
+      "Die Hard",
+      "Blue Stinger",
+      "Mercs",
+      "Lethal Enforcers"
+    ],
+    "answer": "Lethal Enforcers"
+  },
+  {
+    "q": "¿Qué light-gun USB popular suele usarse con barra IR? (versión doméstica)",
+    "choices": [
+      "Gun4IR",
+      "AimTrak",
+      "Sinden Lightgun",
+      "Wiimote + DolphinBar"
+    ],
+    "answer": "AimTrak"
+  },
+  {
+    "q": "Serie de Konami con Justifier (versión doméstica)",
+    "choices": [
+      "Lethal Enforcers",
+      "Blue Stinger",
+      "Mercs",
+      "Die Hard"
+    ],
+    "answer": "Lethal Enforcers"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Operation Wolf'? (curiosidad)",
+    "choices": [
+      "Atari/Midway",
+      "Konami",
+      "PlayMechanix",
+      "Taito"
+    ],
+    "answer": "Taito"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Lethal Enforcers'? (historia)",
+    "choices": [
+      "Raw Thrills",
+      "Konami",
+      "Atari/Midway",
+      "Sega"
+    ],
+    "answer": "Konami"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Operation Thunderbolt'? (hardware)",
+    "choices": [
+      "Taito",
+      "Konami",
+      "Atari/Midway",
+      "Sega"
+    ],
+    "answer": "Taito"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'The House of the Dead 2'? (historia)",
+    "choices": [
+      "Konami",
+      "Namco",
+      "Taito",
+      "Sega"
+    ],
+    "answer": "Sega"
+  },
+  {
+    "q": "Spinoff light-gun de Resident Evil en PS2 (curiosidad)",
+    "choices": [
+      "Dead Aim",
+      "Dino Stalker",
+      "Outbreak",
+      "Survivor"
+    ],
+    "answer": "Dino Stalker"
+  },
+  {
+    "q": "¿Accesorio oficial asociado a PS1 para pistolas de luz? (historia)",
+    "choices": [
+      "GunCon 2",
+      "G‑Con 45",
+      "Wii Zapper",
+      "Zapper"
+    ],
+    "answer": "G‑Con 45"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Ghost Squad'? (curiosidad)",
+    "choices": [
+      "PlayMechanix",
+      "Atari/Midway",
+      "Sega",
+      "Raw Thrills"
+    ],
+    "answer": "Sega"
+  },
+  {
+    "q": "¿Qué pantalla es ideal para pistolas ópticas clásicas? (hardware)",
+    "choices": [
+      "Plasma",
+      "LCD",
+      "CRT",
+      "OLED"
+    ],
+    "answer": "CRT"
+  },
+  {
+    "q": "¿Qué launcher corre arcades recientes en Windows? (historia)",
+    "choices": [
+      "RetroArch",
+      "MAME",
+      "PCSX2",
+      "TeknoParrot"
+    ],
+    "answer": "TeknoParrot"
+  },
+  {
+    "q": "¿Accesorio oficial asociado a Wii para pistolas de luz? (hardware)",
+    "choices": [
+      "Wii Zapper",
+      "GunCon 3",
+      "Light Phaser",
+      "GunCon 2"
+    ],
+    "answer": "Wii Zapper"
+  },
+  {
+    "q": "¿Qué frontend integra EmulationStation en Windows? (versión doméstica)",
+    "choices": [
+      "Batocera",
+      "Recalbox",
+      "OpenEmu",
+      "RetroBat"
+    ],
+    "answer": "RetroBat"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Ninja Assault'? (arcade clásico)",
+    "choices": [
+      "Konami",
+      "Namco",
+      "PlayMechanix",
+      "Taito"
+    ],
+    "answer": "Konami"
+  },
+  {
+    "q": "Spinoff light-gun de Resident Evil en PS2 (detalles técnicos)",
+    "choices": [
+      "Survivor",
+      "Dead Aim",
+      "Outbreak",
+      "Dino Stalker"
+    ],
+    "answer": "Dino Stalker"
+  },
+  {
+    "q": "¿Qué combo se usa a menudo para jugar en PC? (curiosidad)",
+    "choices": [
+      "Wiimote + DolphinBar",
+      "Gun4IR",
+      "Sinden Lightgun",
+      "AimTrak"
+    ],
+    "answer": "Wiimote + DolphinBar"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Gunblade NY'? (versión doméstica)",
+    "choices": [
+      "Atari/Midway",
+      "Namco",
+      "Sega",
+      "PlayMechanix"
+    ],
+    "answer": "Sega"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Let's Go Island'? (detalles técnicos)",
+    "choices": [
+      "Sega",
+      "Konami",
+      "Taito",
+      "Atari/Midway"
+    ],
+    "answer": "Sega"
+  },
+  {
+    "q": "¿Qué launcher corre arcades recientes en Windows? (versión doméstica)",
+    "choices": [
+      "RetroArch",
+      "TeknoParrot",
+      "MAME",
+      "PCSX2"
+    ],
+    "answer": "TeknoParrot"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Time Crisis 2'? (detalles técnicos)",
+    "choices": [
+      "Namco",
+      "Taito",
+      "Raw Thrills",
+      "PlayMechanix"
+    ],
+    "answer": "Namco"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Operation Tiger'? (detalles técnicos)",
+    "choices": [
+      "Konami",
+      "PlayMechanix",
+      "Atari/Midway",
+      "Taito"
+    ],
+    "answer": "Taito"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Let's Go Jungle'? (hardware)",
+    "choices": [
+      "PlayMechanix",
+      "Raw Thrills",
+      "Atari/Midway",
+      "Sega"
+    ],
+    "answer": "Sega"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Operation Thunderbolt'? (detalles técnicos)",
+    "choices": [
+      "Sega",
+      "Atari/Midway",
+      "Taito",
+      "Konami"
+    ],
+    "answer": "Taito"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Lethal Enforcers'? (arcade clásico)",
+    "choices": [
+      "Konami",
+      "Atari/Midway",
+      "Raw Thrills",
+      "Sega"
+    ],
+    "answer": "Konami"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Virtua Cop'? (curiosidad)",
+    "choices": [
+      "Namco",
+      "PlayMechanix",
+      "Atari/Midway",
+      "Sega"
+    ],
+    "answer": "Sega"
+  },
+  {
+    "q": "¿Qué saga de SEGA presenta agentes secretos con puntería? (arcade clásico)",
+    "choices": [
+      "Confidential Mission",
+      "Rambo",
+      "Ghost Squad",
+      "Time Crisis"
+    ],
+    "answer": "Confidential Mission"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Let's Go Island'? (curiosidad)",
+    "choices": [
+      "Konami",
+      "Atari/Midway",
+      "Sega",
+      "Taito"
+    ],
+    "answer": "Sega"
+  },
+  {
+    "q": "Light-gun de terror gore de Midway (hardware)",
+    "choices": [
+      "Dark Escape 4D",
+      "Area 51",
+      "Alien 3: The Gun",
+      "Carnevil"
+    ],
+    "answer": "Carnevil"
+  },
+  {
+    "q": "¿Accesorio oficial asociado a SNES para pistolas de luz? (arcade clásico)",
+    "choices": [
+      "Super Scope",
+      "Wii Zapper",
+      "Menacer",
+      "Zapper"
+    ],
+    "answer": "Super Scope"
+  },
+  {
+    "q": "En House of the Dead predominan… (curiosidad)",
+    "choices": [
+      "Aliens",
+      "Zombis",
+      "Robots",
+      "Soldados"
+    ],
+    "answer": "Zombis"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Aliens Armageddon'? (detalles técnicos)",
+    "choices": [
+      "Taito",
+      "Sega",
+      "Atari/Midway",
+      "Raw Thrills"
+    ],
+    "answer": "Raw Thrills"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Terminator Salvation'? (versión doméstica)",
+    "choices": [
+      "PlayMechanix",
+      "Namco",
+      "Raw Thrills",
+      "Taito"
+    ],
+    "answer": "Raw Thrills"
+  },
+  {
+    "q": "Light-gun policial de Taito (1987) (arcade clásico)",
+    "choices": [
+      "Operation Thunderbolt",
+      "Operation Wolf",
+      "Ninja Assault",
+      "Operation Tiger"
+    ],
+    "answer": "Operation Wolf"
+  },
+  {
+    "q": "Light-gun policial de Taito (1987) (arcade clásico)",
+    "choices": [
+      "Operation Thunderbolt",
+      "Ninja Assault",
+      "Operation Tiger",
+      "Operation Wolf"
+    ],
+    "answer": "Operation Wolf"
+  },
+  {
+    "q": "¿Qué pantalla es ideal para pistolas ópticas clásicas? (versión doméstica)",
+    "choices": [
+      "Plasma",
+      "LCD",
+      "CRT",
+      "OLED"
+    ],
+    "answer": "CRT"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Target: Terror'? (versión doméstica)",
+    "choices": [
+      "Raw Thrills",
+      "Atari/Midway",
+      "PlayMechanix",
+      "Namco"
+    ],
+    "answer": "PlayMechanix"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Aliens Armageddon'? (versión doméstica)",
+    "choices": [
+      "Sega",
+      "Taito",
+      "Raw Thrills",
+      "Atari/Midway"
+    ],
+    "answer": "Raw Thrills"
+  },
+  {
+    "q": "¿Qué pantalla es ideal para pistolas ópticas clásicas? (detalles técnicos)",
+    "choices": [
+      "CRT",
+      "Plasma",
+      "LCD",
+      "OLED"
+    ],
+    "answer": "CRT"
+  },
+  {
+    "q": "¿Accesorio oficial asociado a PS2 para pistolas de luz? (arcade clásico)",
+    "choices": [
+      "Super Scope",
+      "GunCon 2",
+      "Light Phaser",
+      "G‑Con 45"
+    ],
+    "answer": "GunCon 2"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Point Blank'? (arcade clásico)",
+    "choices": [
+      "Konami",
+      "Namco",
+      "Raw Thrills",
+      "Atari/Midway"
+    ],
+    "answer": "Namco"
+  },
+  {
+    "q": "Pistola que detecta el borde en LCD (arcade clásico)",
+    "choices": [
+      "Sinden Lightgun",
+      "Justifier",
+      "GunCon 2",
+      "Zapper"
+    ],
+    "answer": "Sinden Lightgun"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Razing Storm'? (versión doméstica)",
+    "choices": [
+      "PlayMechanix",
+      "Namco",
+      "Konami",
+      "Atari/Midway"
+    ],
+    "answer": "Namco"
+  },
+  {
+    "q": "¿Qué launcher corre arcades recientes en Windows? (versión doméstica)",
+    "choices": [
+      "PCSX2",
+      "TeknoParrot",
+      "RetroArch",
+      "MAME"
+    ],
+    "answer": "TeknoParrot"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Operation Wolf'? (hardware)",
+    "choices": [
+      "Atari/Midway",
+      "Konami",
+      "PlayMechanix",
+      "Taito"
+    ],
+    "answer": "Taito"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Ninja Assault'? (detalles técnicos)",
+    "choices": [
+      "Konami",
+      "Taito",
+      "Namco",
+      "PlayMechanix"
+    ],
+    "answer": "Konami"
+  },
+  {
+    "q": "¿Qué launcher corre arcades recientes en Windows? (detalles técnicos)",
+    "choices": [
+      "TeknoParrot",
+      "RetroArch",
+      "MAME",
+      "PCSX2"
+    ],
+    "answer": "TeknoParrot"
+  },
+  {
+    "q": "¿Qué saga de SEGA presenta agentes secretos con puntería? (versión doméstica)",
+    "choices": [
+      "Time Crisis",
+      "Confidential Mission",
+      "Rambo",
+      "Ghost Squad"
+    ],
+    "answer": "Confidential Mission"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Silent Scope'? (curiosidad)",
+    "choices": [
+      "Taito",
+      "Sega",
+      "Konami",
+      "Namco"
+    ],
+    "answer": "Konami"
+  },
+  {
+    "q": "Light-gun de terror gore de Midway (hardware)",
+    "choices": [
+      "Alien 3: The Gun",
+      "Dark Escape 4D",
+      "Carnevil",
+      "Area 51"
+    ],
+    "answer": "Carnevil"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Deadstorm Pirates'? (hardware)",
+    "choices": [
+      "Namco",
+      "Konami",
+      "PlayMechanix",
+      "Sega"
+    ],
+    "answer": "Namco"
+  },
+  {
+    "q": "¿Qué launcher corre arcades recientes en Windows? (historia)",
+    "choices": [
+      "RetroArch",
+      "TeknoParrot",
+      "MAME",
+      "PCSX2"
+    ],
+    "answer": "TeknoParrot"
+  },
+  {
+    "q": "Light-gun de terror gore de Midway (arcade clásico)",
+    "choices": [
+      "Area 51",
+      "Carnevil",
+      "Alien 3: The Gun",
+      "Dark Escape 4D"
+    ],
+    "answer": "Carnevil"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Confidential Mission'? (curiosidad)",
+    "choices": [
+      "Sega",
+      "Konami",
+      "Taito",
+      "Namco"
+    ],
+    "answer": "Sega"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Confidential Mission'? (hardware)",
+    "choices": [
+      "Namco",
+      "Konami",
+      "Sega",
+      "Taito"
+    ],
+    "answer": "Sega"
+  },
+  {
+    "q": "Pistola que detecta el borde en LCD (curiosidad)",
+    "choices": [
+      "Sinden Lightgun",
+      "Justifier",
+      "Zapper",
+      "GunCon 2"
+    ],
+    "answer": "Sinden Lightgun"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Ghost Squad'? (historia)",
+    "choices": [
+      "Sega",
+      "PlayMechanix",
+      "Raw Thrills",
+      "Atari/Midway"
+    ],
+    "answer": "Sega"
+  },
+  {
+    "q": "¿Qué saga de SEGA presenta agentes secretos con puntería? (hardware)",
+    "choices": [
+      "Rambo",
+      "Ghost Squad",
+      "Time Crisis",
+      "Confidential Mission"
+    ],
+    "answer": "Confidential Mission"
+  },
+  {
+    "q": "¿Qué launcher corre arcades recientes en Windows? (hardware)",
+    "choices": [
+      "RetroArch",
+      "TeknoParrot",
+      "PCSX2",
+      "MAME"
+    ],
+    "answer": "TeknoParrot"
+  },
+  {
+    "q": "Light-gun de terror gore de Midway (versión doméstica)",
+    "choices": [
+      "Dark Escape 4D",
+      "Carnevil",
+      "Area 51",
+      "Alien 3: The Gun"
+    ],
+    "answer": "Carnevil"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Operation Tiger'? (hardware)",
+    "choices": [
+      "Atari/Midway",
+      "Konami",
+      "Taito",
+      "PlayMechanix"
+    ],
+    "answer": "Taito"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Let's Go Jungle'? (hardware)",
+    "choices": [
+      "PlayMechanix",
+      "Atari/Midway",
+      "Raw Thrills",
+      "Sega"
+    ],
+    "answer": "Sega"
+  },
+  {
+    "q": "¿Qué light-gun USB popular suele usarse con barra IR? (curiosidad)",
+    "choices": [
+      "Wiimote + DolphinBar",
+      "AimTrak",
+      "Gun4IR",
+      "Sinden Lightgun"
+    ],
+    "answer": "AimTrak"
+  },
+  {
+    "q": "¿Qué combo se usa a menudo para jugar en PC? (detalles técnicos)",
+    "choices": [
+      "Gun4IR",
+      "Sinden Lightgun",
+      "AimTrak",
+      "Wiimote + DolphinBar"
+    ],
+    "answer": "Wiimote + DolphinBar"
+  },
+  {
+    "q": "Pistola que detecta el borde en LCD (hardware)",
+    "choices": [
+      "Justifier",
+      "GunCon 2",
+      "Sinden Lightgun",
+      "Zapper"
+    ],
+    "answer": "Sinden Lightgun"
+  },
+  {
+    "q": "¿Qué combo se usa a menudo para jugar en PC? (historia)",
+    "choices": [
+      "Gun4IR",
+      "Wiimote + DolphinBar",
+      "AimTrak",
+      "Sinden Lightgun"
+    ],
+    "answer": "Wiimote + DolphinBar"
+  },
+  {
+    "q": "¿Cuál usa escudo balístico? (versión doméstica)",
+    "choices": [
+      "Razing Storm",
+      "Virtua Cop 3",
+      "Crisis Zone",
+      "Endgame"
+    ],
+    "answer": "Crisis Zone"
+  },
+  {
+    "q": "¿Qué saga de Namco usa pedal para cubrirse? (historia)",
+    "choices": [
+      "Area 51",
+      "Time Crisis",
+      "The House of the Dead",
+      "Virtua Cop"
+    ],
+    "answer": "Time Crisis"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Let's Go Island'? (hardware)",
+    "choices": [
+      "Atari/Midway",
+      "Sega",
+      "Konami",
+      "Taito"
+    ],
+    "answer": "Sega"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Virtua Cop'? (versión doméstica)",
+    "choices": [
+      "Atari/Midway",
+      "Namco",
+      "PlayMechanix",
+      "Sega"
+    ],
+    "answer": "Sega"
+  },
+  {
+    "q": "Serie de Konami con Justifier (arcade clásico)",
+    "choices": [
+      "Mercs",
+      "Die Hard",
+      "Lethal Enforcers",
+      "Blue Stinger"
+    ],
+    "answer": "Lethal Enforcers"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Let's Go Island'? (historia)",
+    "choices": [
+      "Atari/Midway",
+      "Sega",
+      "Taito",
+      "Konami"
+    ],
+    "answer": "Sega"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Jurassic Park Arcade'? (versión doméstica)",
+    "choices": [
+      "Namco",
+      "Raw Thrills",
+      "Atari/Midway",
+      "PlayMechanix"
+    ],
+    "answer": "Raw Thrills"
+  },
+  {
+    "q": "¿Qué saga de SEGA presenta agentes secretos con puntería? (versión doméstica)",
+    "choices": [
+      "Time Crisis",
+      "Rambo",
+      "Ghost Squad",
+      "Confidential Mission"
+    ],
+    "answer": "Confidential Mission"
+  },
+  {
+    "q": "¿Quién desarrolló Virtua Cop? (hardware)",
+    "choices": [
+      "Taito",
+      "Capcom",
+      "Sega",
+      "Konami"
+    ],
+    "answer": "Sega"
+  },
+  {
+    "q": "¿Accesorio oficial asociado a Master System para pistolas de luz? (curiosidad)",
+    "choices": [
+      "Zapper",
+      "Menacer",
+      "Super Scope",
+      "Light Phaser"
+    ],
+    "answer": "Light Phaser"
+  },
+  {
+    "q": "¿Accesorio oficial asociado a SNES para pistolas de luz? (versión doméstica)",
+    "choices": [
+      "Wii Zapper",
+      "Super Scope",
+      "Menacer",
+      "Zapper"
+    ],
+    "answer": "Super Scope"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Silent Scope'? (versión doméstica)",
+    "choices": [
+      "Taito",
+      "Namco",
+      "Sega",
+      "Konami"
+    ],
+    "answer": "Konami"
+  },
+  {
+    "q": "¿Accesorio oficial asociado a PS1 para pistolas de luz? (versión doméstica)",
+    "choices": [
+      "Wii Zapper",
+      "G‑Con 45",
+      "Zapper",
+      "GunCon 2"
+    ],
+    "answer": "G‑Con 45"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Let's Go Jungle'? (historia)",
+    "choices": [
+      "Atari/Midway",
+      "PlayMechanix",
+      "Sega",
+      "Raw Thrills"
+    ],
+    "answer": "Sega"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Virtua Cop'? (detalles técnicos)",
+    "choices": [
+      "PlayMechanix",
+      "Namco",
+      "Sega",
+      "Atari/Midway"
+    ],
+    "answer": "Sega"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'The House of the Dead'? (arcade clásico)",
+    "choices": [
+      "Sega",
+      "PlayMechanix",
+      "Namco",
+      "Taito"
+    ],
+    "answer": "Sega"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Jurassic Park Arcade'? (historia)",
+    "choices": [
+      "Atari/Midway",
+      "Raw Thrills",
+      "Namco",
+      "PlayMechanix"
+    ],
+    "answer": "Raw Thrills"
+  },
+  {
+    "q": "Juego de dianas loco de Namco (detalles técnicos)",
+    "choices": [
+      "Carnevil",
+      "Point Blank",
+      "Operation Wolf",
+      "Police Trainer"
+    ],
+    "answer": "Point Blank"
+  },
+  {
+    "q": "¿Qué saga de SEGA presenta agentes secretos con puntería? (arcade clásico)",
+    "choices": [
+      "Ghost Squad",
+      "Time Crisis",
+      "Rambo",
+      "Confidential Mission"
+    ],
+    "answer": "Confidential Mission"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Operation Tiger'? (detalles técnicos)",
+    "choices": [
+      "Taito",
+      "Atari/Midway",
+      "PlayMechanix",
+      "Konami"
+    ],
+    "answer": "Taito"
+  },
+  {
+    "q": "¿Qué combo se usa a menudo para jugar en PC? (arcade clásico)",
+    "choices": [
+      "AimTrak",
+      "Sinden Lightgun",
+      "Gun4IR",
+      "Wiimote + DolphinBar"
+    ],
+    "answer": "Wiimote + DolphinBar"
+  },
+  {
+    "q": "Sistema con LEDs IR en el marco (arcade clásico)",
+    "choices": [
+      "GunCon 2",
+      "Gun4IR",
+      "AimTrak",
+      "Sinden Lightgun"
+    ],
+    "answer": "Gun4IR"
+  },
+  {
+    "q": "Light-gun de terror gore de Midway (versión doméstica)",
+    "choices": [
+      "Alien 3: The Gun",
+      "Dark Escape 4D",
+      "Area 51",
+      "Carnevil"
+    ],
+    "answer": "Carnevil"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Silent Scope 2'? (versión doméstica)",
+    "choices": [
+      "Namco",
+      "Sega",
+      "PlayMechanix",
+      "Konami"
+    ],
+    "answer": "Konami"
+  },
+  {
+    "q": "¿Accesorio oficial asociado a Wii para pistolas de luz? (historia)",
+    "choices": [
+      "Wii Zapper",
+      "GunCon 3",
+      "GunCon 2",
+      "Light Phaser"
+    ],
+    "answer": "Wii Zapper"
+  },
+  {
+    "q": "En House of the Dead predominan… (arcade clásico)",
+    "choices": [
+      "Zombis",
+      "Robots",
+      "Aliens",
+      "Soldados"
+    ],
+    "answer": "Zombis"
+  },
+  {
+    "q": "¿Cuál usa escudo balístico? (arcade clásico)",
+    "choices": [
+      "Crisis Zone",
+      "Virtua Cop 3",
+      "Razing Storm",
+      "Endgame"
+    ],
+    "answer": "Crisis Zone"
+  },
+  {
+    "q": "¿Cuál usa escudo balístico? (arcade clásico)",
+    "choices": [
+      "Razing Storm",
+      "Crisis Zone",
+      "Endgame",
+      "Virtua Cop 3"
+    ],
+    "answer": "Crisis Zone"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'The House of the Dead 2'? (historia)",
+    "choices": [
+      "Sega",
+      "Konami",
+      "Taito",
+      "Namco"
+    ],
+    "answer": "Sega"
+  },
+  {
+    "q": "¿Qué saga de SEGA presenta agentes secretos con puntería? (historia)",
+    "choices": [
+      "Time Crisis",
+      "Confidential Mission",
+      "Rambo",
+      "Ghost Squad"
+    ],
+    "answer": "Confidential Mission"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Point Blank'? (detalles técnicos)",
+    "choices": [
+      "Konami",
+      "Atari/Midway",
+      "Raw Thrills",
+      "Namco"
+    ],
+    "answer": "Namco"
+  },
+  {
+    "q": "¿Cuál usa escudo balístico? (hardware)",
+    "choices": [
+      "Razing Storm",
+      "Endgame",
+      "Crisis Zone",
+      "Virtua Cop 3"
+    ],
+    "answer": "Crisis Zone"
+  },
+  {
+    "q": "¿Accesorio oficial asociado a Wii para pistolas de luz? (curiosidad)",
+    "choices": [
+      "Wii Zapper",
+      "Light Phaser",
+      "GunCon 3",
+      "GunCon 2"
+    ],
+    "answer": "Wii Zapper"
+  },
+  {
+    "q": "¿Qué sistema moderno usa LEDs IR en las esquinas del marco? (detalles técnicos)",
+    "choices": [
+      "Sinden Lightgun",
+      "Wiimote + DolphinBar",
+      "Gun4IR",
+      "AimTrak"
+    ],
+    "answer": "Gun4IR"
+  },
+  {
+    "q": "Pistola que detecta el borde en LCD (historia)",
+    "choices": [
+      "Justifier",
+      "Sinden Lightgun",
+      "GunCon 2",
+      "Zapper"
+    ],
+    "answer": "Sinden Lightgun"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Lethal Enforcers'? (versión doméstica)",
+    "choices": [
+      "Raw Thrills",
+      "Atari/Midway",
+      "Konami",
+      "Sega"
+    ],
+    "answer": "Konami"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'The House of the Dead'? (detalles técnicos)",
+    "choices": [
+      "Namco",
+      "Taito",
+      "PlayMechanix",
+      "Sega"
+    ],
+    "answer": "Sega"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Jurassic Park Arcade'? (versión doméstica)",
+    "choices": [
+      "Raw Thrills",
+      "Namco",
+      "Atari/Midway",
+      "PlayMechanix"
+    ],
+    "answer": "Raw Thrills"
+  },
+  {
+    "q": "¿Accesorio oficial asociado a Master System para pistolas de luz? (versión doméstica)",
+    "choices": [
+      "Super Scope",
+      "Zapper",
+      "Menacer",
+      "Light Phaser"
+    ],
+    "answer": "Light Phaser"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Virtua Cop 2'? (historia)",
+    "choices": [
+      "Sega",
+      "Raw Thrills",
+      "Taito",
+      "Atari/Midway"
+    ],
+    "answer": "Sega"
+  },
+  {
+    "q": "¿Accesorio oficial asociado a PS2 para pistolas de luz? (detalles técnicos)",
+    "choices": [
+      "Light Phaser",
+      "Super Scope",
+      "GunCon 2",
+      "G‑Con 45"
+    ],
+    "answer": "GunCon 2"
+  },
+  {
+    "q": "¿Qué saga de SEGA presenta agentes secretos con puntería? (detalles técnicos)",
+    "choices": [
+      "Confidential Mission",
+      "Rambo",
+      "Time Crisis",
+      "Ghost Squad"
+    ],
+    "answer": "Confidential Mission"
+  },
+  {
+    "q": "¿Qué saga de Namco usa pedal para cubrirse? (detalles técnicos)",
+    "choices": [
+      "Time Crisis",
+      "Area 51",
+      "Virtua Cop",
+      "The House of the Dead"
+    ],
+    "answer": "Time Crisis"
+  },
+  {
+    "q": "¿En qué saga recargas al *agacharte* con pedal? (hardware)",
+    "choices": [
+      "Virtua Cop",
+      "Point Blank",
+      "Time Crisis",
+      "Police Trainer"
+    ],
+    "answer": "Time Crisis"
+  },
+  {
+    "q": "¿Cómo se llamó la pistola oficial de PS1 en Europa? (detalles técnicos)",
+    "choices": [
+      "GunCon",
+      "Menacer",
+      "Justifier",
+      "G‑Con 45"
+    ],
+    "answer": "G‑Con 45"
+  },
+  {
+    "q": "¿Qué frontend integra EmulationStation en Windows? (detalles técnicos)",
+    "choices": [
+      "RetroBat",
+      "Batocera",
+      "Recalbox",
+      "OpenEmu"
+    ],
+    "answer": "RetroBat"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Terminator Salvation'? (versión doméstica)",
+    "choices": [
+      "Namco",
+      "PlayMechanix",
+      "Taito",
+      "Raw Thrills"
+    ],
+    "answer": "Raw Thrills"
+  },
+  {
+    "q": "¿Qué frontend integra EmulationStation en Windows? (hardware)",
+    "choices": [
+      "Batocera",
+      "RetroBat",
+      "Recalbox",
+      "OpenEmu"
+    ],
+    "answer": "RetroBat"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Operation Thunderbolt'? (historia)",
+    "choices": [
+      "Atari/Midway",
+      "Konami",
+      "Sega",
+      "Taito"
+    ],
+    "answer": "Taito"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Operation Tiger'? (historia)",
+    "choices": [
+      "Taito",
+      "Atari/Midway",
+      "PlayMechanix",
+      "Konami"
+    ],
+    "answer": "Taito"
+  },
+  {
+    "q": "¿Qué pantalla es ideal para pistolas ópticas clásicas? (historia)",
+    "choices": [
+      "CRT",
+      "OLED",
+      "Plasma",
+      "LCD"
+    ],
+    "answer": "CRT"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Time Crisis 3'? (detalles técnicos)",
+    "choices": [
+      "Sega",
+      "Namco",
+      "Raw Thrills",
+      "Konami"
+    ],
+    "answer": "Namco"
+  },
+  {
+    "q": "Spinoff light-gun de Resident Evil en PS2 (curiosidad)",
+    "choices": [
+      "Dead Aim",
+      "Dino Stalker",
+      "Survivor",
+      "Outbreak"
+    ],
+    "answer": "Dino Stalker"
+  },
+  {
+    "q": "Juego de dianas loco de Namco (historia)",
+    "choices": [
+      "Point Blank",
+      "Carnevil",
+      "Operation Wolf",
+      "Police Trainer"
+    ],
+    "answer": "Point Blank"
+  },
+  {
+    "q": "¿Qué frontend integra EmulationStation en Windows? (versión doméstica)",
+    "choices": [
+      "RetroBat",
+      "OpenEmu",
+      "Batocera",
+      "Recalbox"
+    ],
+    "answer": "RetroBat"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'The House of the Dead 3'? (detalles técnicos)",
+    "choices": [
+      "Raw Thrills",
+      "PlayMechanix",
+      "Konami",
+      "Sega"
+    ],
+    "answer": "Sega"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'L.A. Machineguns'? (historia)",
+    "choices": [
+      "Konami",
+      "Sega",
+      "Raw Thrills",
+      "PlayMechanix"
+    ],
+    "answer": "Sega"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Terminator Salvation'? (detalles técnicos)",
+    "choices": [
+      "PlayMechanix",
+      "Namco",
+      "Raw Thrills",
+      "Taito"
+    ],
+    "answer": "Raw Thrills"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Point Blank'? (curiosidad)",
+    "choices": [
+      "Raw Thrills",
+      "Namco",
+      "Konami",
+      "Atari/Midway"
+    ],
+    "answer": "Namco"
+  },
+  {
+    "q": "¿En qué saga recargas al *agacharte* con pedal? (versión doméstica)",
+    "choices": [
+      "Point Blank",
+      "Time Crisis",
+      "Police Trainer",
+      "Virtua Cop"
+    ],
+    "answer": "Time Crisis"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Silent Scope'? (curiosidad)",
+    "choices": [
+      "Konami",
+      "Sega",
+      "Taito",
+      "Namco"
+    ],
+    "answer": "Konami"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Jurassic Park Arcade'? (arcade clásico)",
+    "choices": [
+      "Raw Thrills",
+      "Namco",
+      "PlayMechanix",
+      "Atari/Midway"
+    ],
+    "answer": "Raw Thrills"
+  },
+  {
+    "q": "¿Accesorio oficial asociado a PS2 para pistolas de luz? (detalles técnicos)",
+    "choices": [
+      "Light Phaser",
+      "GunCon 2",
+      "Super Scope",
+      "G‑Con 45"
+    ],
+    "answer": "GunCon 2"
+  },
+  {
+    "q": "¿Accesorio oficial asociado a PS1 para pistolas de luz? (hardware)",
+    "choices": [
+      "Zapper",
+      "Wii Zapper",
+      "G‑Con 45",
+      "GunCon 2"
+    ],
+    "answer": "G‑Con 45"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Time Crisis 3'? (versión doméstica)",
+    "choices": [
+      "Raw Thrills",
+      "Sega",
+      "Namco",
+      "Konami"
+    ],
+    "answer": "Namco"
+  },
+  {
+    "q": "¿Accesorio oficial asociado a Wii para pistolas de luz? (curiosidad)",
+    "choices": [
+      "Light Phaser",
+      "GunCon 2",
+      "Wii Zapper",
+      "GunCon 3"
+    ],
+    "answer": "Wii Zapper"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Silent Scope'? (arcade clásico)",
+    "choices": [
+      "Taito",
+      "Konami",
+      "Sega",
+      "Namco"
+    ],
+    "answer": "Konami"
+  },
+  {
+    "q": "Spinoff light-gun de Resident Evil en PS2 (arcade clásico)",
+    "choices": [
+      "Dino Stalker",
+      "Dead Aim",
+      "Outbreak",
+      "Survivor"
+    ],
+    "answer": "Dino Stalker"
+  },
+  {
+    "q": "¿Qué pantalla es ideal para pistolas ópticas clásicas? (versión doméstica)",
+    "choices": [
+      "CRT",
+      "OLED",
+      "Plasma",
+      "LCD"
+    ],
+    "answer": "CRT"
+  },
+  {
+    "q": "¿Qué pantalla es ideal para pistolas ópticas clásicas? (versión doméstica)",
+    "choices": [
+      "Plasma",
+      "CRT",
+      "OLED",
+      "LCD"
+    ],
+    "answer": "CRT"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Confidential Mission'? (hardware)",
+    "choices": [
+      "Konami",
+      "Sega",
+      "Taito",
+      "Namco"
+    ],
+    "answer": "Sega"
+  },
+  {
+    "q": "En House of the Dead predominan… (curiosidad)",
+    "choices": [
+      "Aliens",
+      "Robots",
+      "Soldados",
+      "Zombis"
+    ],
+    "answer": "Zombis"
+  },
+  {
+    "q": "Light-gun policial de Taito (1987) (arcade clásico)",
+    "choices": [
+      "Operation Wolf",
+      "Ninja Assault",
+      "Operation Tiger",
+      "Operation Thunderbolt"
+    ],
+    "answer": "Operation Wolf"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Confidential Mission'? (arcade clásico)",
+    "choices": [
+      "Namco",
+      "Konami",
+      "Taito",
+      "Sega"
+    ],
+    "answer": "Sega"
+  },
+  {
+    "q": "Light-gun de terror gore de Midway (curiosidad)",
+    "choices": [
+      "Carnevil",
+      "Alien 3: The Gun",
+      "Area 51",
+      "Dark Escape 4D"
+    ],
+    "answer": "Carnevil"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Operation Ghost'? (historia)",
+    "choices": [
+      "Raw Thrills",
+      "Atari/Midway",
+      "Sega",
+      "PlayMechanix"
+    ],
+    "answer": "Sega"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Ninja Assault'? (curiosidad)",
+    "choices": [
+      "Taito",
+      "Konami",
+      "Namco",
+      "PlayMechanix"
+    ],
+    "answer": "Konami"
+  },
+  {
+    "q": "¿Qué frontend integra EmulationStation en Windows? (hardware)",
+    "choices": [
+      "RetroBat",
+      "OpenEmu",
+      "Recalbox",
+      "Batocera"
+    ],
+    "answer": "RetroBat"
+  },
+  {
+    "q": "¿Accesorio oficial asociado a PS3 para pistolas de luz? (hardware)",
+    "choices": [
+      "Light Phaser",
+      "G‑Con 45",
+      "Zapper",
+      "GunCon 3"
+    ],
+    "answer": "GunCon 3"
+  },
+  {
+    "q": "¿Qué launcher corre arcades recientes en Windows? (versión doméstica)",
+    "choices": [
+      "RetroArch",
+      "PCSX2",
+      "MAME",
+      "TeknoParrot"
+    ],
+    "answer": "TeknoParrot"
+  },
+  {
+    "q": "¿Accesorio oficial asociado a PS1 para pistolas de luz? (historia)",
+    "choices": [
+      "G‑Con 45",
+      "Wii Zapper",
+      "Zapper",
+      "GunCon 2"
+    ],
+    "answer": "G‑Con 45"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Operation Ghost'? (versión doméstica)",
+    "choices": [
+      "PlayMechanix",
+      "Sega",
+      "Raw Thrills",
+      "Atari/Midway"
+    ],
+    "answer": "Sega"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Target: Terror'? (arcade clásico)",
+    "choices": [
+      "Raw Thrills",
+      "PlayMechanix",
+      "Namco",
+      "Atari/Midway"
+    ],
+    "answer": "PlayMechanix"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Virtua Cop 2'? (versión doméstica)",
+    "choices": [
+      "Sega",
+      "Taito",
+      "Raw Thrills",
+      "Atari/Midway"
+    ],
+    "answer": "Sega"
+  },
+  {
+    "q": "¿Qué light-gun USB popular suele usarse con barra IR? (detalles técnicos)",
+    "choices": [
+      "Wiimote + DolphinBar",
+      "Gun4IR",
+      "Sinden Lightgun",
+      "AimTrak"
+    ],
+    "answer": "AimTrak"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Operation Wolf'? (hardware)",
+    "choices": [
+      "Atari/Midway",
+      "Taito",
+      "Konami",
+      "PlayMechanix"
+    ],
+    "answer": "Taito"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Target: Terror'? (detalles técnicos)",
+    "choices": [
+      "Atari/Midway",
+      "Namco",
+      "PlayMechanix",
+      "Raw Thrills"
+    ],
+    "answer": "PlayMechanix"
+  },
+  {
+    "q": "¿Accesorio oficial asociado a SNES para pistolas de luz? (detalles técnicos)",
+    "choices": [
+      "Menacer",
+      "Zapper",
+      "Wii Zapper",
+      "Super Scope"
+    ],
+    "answer": "Super Scope"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Virtua Cop 2'? (versión doméstica)",
+    "choices": [
+      "Atari/Midway",
+      "Sega",
+      "Taito",
+      "Raw Thrills"
+    ],
+    "answer": "Sega"
+  },
+  {
+    "q": "En House of the Dead predominan… (hardware)",
+    "choices": [
+      "Zombis",
+      "Soldados",
+      "Aliens",
+      "Robots"
+    ],
+    "answer": "Zombis"
+  },
+  {
+    "q": "Light-gun policial de Taito (1987) (curiosidad)",
+    "choices": [
+      "Operation Tiger",
+      "Operation Thunderbolt",
+      "Operation Wolf",
+      "Ninja Assault"
+    ],
+    "answer": "Operation Wolf"
+  },
+  {
+    "q": "¿Qué saga de SEGA presenta agentes secretos con puntería? (historia)",
+    "choices": [
+      "Confidential Mission",
+      "Time Crisis",
+      "Rambo",
+      "Ghost Squad"
+    ],
+    "answer": "Confidential Mission"
+  },
+  {
+    "q": "¿Qué launcher corre arcades recientes en Windows? (detalles técnicos)",
+    "choices": [
+      "RetroArch",
+      "MAME",
+      "TeknoParrot",
+      "PCSX2"
+    ],
+    "answer": "TeknoParrot"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Silent Scope 2'? (historia)",
+    "choices": [
+      "Konami",
+      "Namco",
+      "PlayMechanix",
+      "Sega"
+    ],
+    "answer": "Konami"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Carnevil'? (versión doméstica)",
+    "choices": [
+      "Taito",
+      "Sega",
+      "Atari/Midway",
+      "Namco"
+    ],
+    "answer": "Atari/Midway"
+  },
+  {
+    "q": "¿Qué launcher corre arcades recientes en Windows? (detalles técnicos)",
+    "choices": [
+      "TeknoParrot",
+      "RetroArch",
+      "MAME",
+      "PCSX2"
+    ],
+    "answer": "TeknoParrot"
+  },
+  {
+    "q": "¿Cuál usa escudo balístico? (arcade clásico)",
+    "choices": [
+      "Virtua Cop 3",
+      "Crisis Zone",
+      "Endgame",
+      "Razing Storm"
+    ],
+    "answer": "Crisis Zone"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Operation Wolf'? (hardware)",
+    "choices": [
+      "Atari/Midway",
+      "Konami",
+      "PlayMechanix",
+      "Taito"
+    ],
+    "answer": "Taito"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Big Buck Hunter'? (detalles técnicos)",
+    "choices": [
+      "Atari/Midway",
+      "Sega",
+      "PlayMechanix",
+      "Taito"
+    ],
+    "answer": "PlayMechanix"
+  },
+  {
+    "q": "¿Accesorio oficial asociado a SNES para pistolas de luz? (curiosidad)",
+    "choices": [
+      "Zapper",
+      "Menacer",
+      "Super Scope",
+      "Wii Zapper"
+    ],
+    "answer": "Super Scope"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'The House of the Dead 3'? (curiosidad)",
+    "choices": [
+      "Raw Thrills",
+      "Konami",
+      "PlayMechanix",
+      "Sega"
+    ],
+    "answer": "Sega"
+  },
+  {
+    "q": "¿Accesorio oficial asociado a SNES para pistolas de luz? (curiosidad)",
+    "choices": [
+      "Zapper",
+      "Menacer",
+      "Super Scope",
+      "Wii Zapper"
+    ],
+    "answer": "Super Scope"
+  },
+  {
+    "q": "¿Qué saga de SEGA presenta agentes secretos con puntería? (curiosidad)",
+    "choices": [
+      "Confidential Mission",
+      "Time Crisis",
+      "Rambo",
+      "Ghost Squad"
+    ],
+    "answer": "Confidential Mission"
+  },
+  {
+    "q": "Arcade militar de SEGA (2004) (hardware)",
+    "choices": [
+      "Ghost Squad",
+      "Time Crisis 4",
+      "Police Trainer",
+      "Carnevil"
+    ],
+    "answer": "Ghost Squad"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Gunblade NY'? (curiosidad)",
+    "choices": [
+      "Atari/Midway",
+      "Sega",
+      "Namco",
+      "PlayMechanix"
+    ],
+    "answer": "Sega"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Ghost Squad'? (historia)",
+    "choices": [
+      "Sega",
+      "PlayMechanix",
+      "Raw Thrills",
+      "Atari/Midway"
+    ],
+    "answer": "Sega"
+  },
+  {
+    "q": "¿Qué frontend integra EmulationStation en Windows? (versión doméstica)",
+    "choices": [
+      "RetroBat",
+      "Batocera",
+      "Recalbox",
+      "OpenEmu"
+    ],
+    "answer": "RetroBat"
+  },
+  {
+    "q": "¿Qué saga de SEGA presenta agentes secretos con puntería? (curiosidad)",
+    "choices": [
+      "Time Crisis",
+      "Rambo",
+      "Ghost Squad",
+      "Confidential Mission"
+    ],
+    "answer": "Confidential Mission"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Point Blank'? (hardware)",
+    "choices": [
+      "Raw Thrills",
+      "Namco",
+      "Atari/Midway",
+      "Konami"
+    ],
+    "answer": "Namco"
+  },
+  {
+    "q": "Spinoff light-gun de Resident Evil en PS2 (versión doméstica)",
+    "choices": [
+      "Dead Aim",
+      "Outbreak",
+      "Survivor",
+      "Dino Stalker"
+    ],
+    "answer": "Dino Stalker"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Rambo'? (detalles técnicos)",
+    "choices": [
+      "Konami",
+      "Sega",
+      "Raw Thrills",
+      "PlayMechanix"
+    ],
+    "answer": "Sega"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Razing Storm'? (historia)",
+    "choices": [
+      "Atari/Midway",
+      "Konami",
+      "Namco",
+      "PlayMechanix"
+    ],
+    "answer": "Namco"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Time Crisis'? (historia)",
+    "choices": [
+      "Namco",
+      "PlayMechanix",
+      "Atari/Midway",
+      "Taito"
+    ],
+    "answer": "Namco"
+  },
+  {
+    "q": "¿Qué saga de SEGA presenta agentes secretos con puntería? (versión doméstica)",
+    "choices": [
+      "Ghost Squad",
+      "Time Crisis",
+      "Rambo",
+      "Confidential Mission"
+    ],
+    "answer": "Confidential Mission"
+  },
+  {
+    "q": "¿Qué light-gun USB popular suele usarse con barra IR? (versión doméstica)",
+    "choices": [
+      "AimTrak",
+      "Gun4IR",
+      "Sinden Lightgun",
+      "Wiimote + DolphinBar"
+    ],
+    "answer": "AimTrak"
+  },
+  {
+    "q": "¿En qué saga recargas al *agacharte* con pedal? (historia)",
+    "choices": [
+      "Point Blank",
+      "Virtua Cop",
+      "Time Crisis",
+      "Police Trainer"
+    ],
+    "answer": "Time Crisis"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Lethal Enforcers'? (hardware)",
+    "choices": [
+      "Konami",
+      "Sega",
+      "Raw Thrills",
+      "Atari/Midway"
+    ],
+    "answer": "Konami"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Big Buck Hunter'? (curiosidad)",
+    "choices": [
+      "PlayMechanix",
+      "Sega",
+      "Taito",
+      "Atari/Midway"
+    ],
+    "answer": "PlayMechanix"
+  },
+  {
+    "q": "Light-gun policial de Taito (1987) (versión doméstica)",
+    "choices": [
+      "Operation Wolf",
+      "Ninja Assault",
+      "Operation Tiger",
+      "Operation Thunderbolt"
+    ],
+    "answer": "Operation Wolf"
+  },
+  {
+    "q": "¿Qué launcher corre arcades recientes en Windows? (detalles técnicos)",
+    "choices": [
+      "RetroArch",
+      "MAME",
+      "TeknoParrot",
+      "PCSX2"
+    ],
+    "answer": "TeknoParrot"
+  },
+  {
+    "q": "¿Qué launcher corre arcades recientes en Windows? (hardware)",
+    "choices": [
+      "TeknoParrot",
+      "RetroArch",
+      "MAME",
+      "PCSX2"
+    ],
+    "answer": "TeknoParrot"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Maximum Force'? (versión doméstica)",
+    "choices": [
+      "PlayMechanix",
+      "Raw Thrills",
+      "Namco",
+      "Atari/Midway"
+    ],
+    "answer": "Atari/Midway"
+  },
+  {
+    "q": "¿Cuál usa escudo balístico? (hardware)",
+    "choices": [
+      "Endgame",
+      "Crisis Zone",
+      "Razing Storm",
+      "Virtua Cop 3"
+    ],
+    "answer": "Crisis Zone"
+  },
+  {
+    "q": "¿Quién desarrolló Virtua Cop? (curiosidad)",
     "choices": [
       "Taito",
       "Konami",
@@ -40,37 +4640,207 @@
     "answer": "Sega"
   },
   {
-    "q": "¿Quién desarrolló Virtua Cop?",
+    "q": "Light-gun policial de Taito (1987) (curiosidad)",
     "choices": [
-      "Taito",
+      "Operation Tiger",
+      "Operation Wolf",
+      "Ninja Assault",
+      "Operation Thunderbolt"
+    ],
+    "answer": "Operation Wolf"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Target: Terror'? (historia)",
+    "choices": [
+      "Raw Thrills",
+      "PlayMechanix",
+      "Namco",
+      "Atari/Midway"
+    ],
+    "answer": "PlayMechanix"
+  },
+  {
+    "q": "¿Cuál usa escudo balístico? (hardware)",
+    "choices": [
+      "Crisis Zone",
+      "Razing Storm",
+      "Endgame",
+      "Virtua Cop 3"
+    ],
+    "answer": "Crisis Zone"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Razing Storm'? (curiosidad)",
+    "choices": [
+      "Atari/Midway",
+      "Konami",
+      "PlayMechanix",
+      "Namco"
+    ],
+    "answer": "Namco"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Operation Ghost'? (versión doméstica)",
+    "choices": [
       "Sega",
-      "Capcom",
+      "PlayMechanix",
+      "Atari/Midway",
+      "Raw Thrills"
+    ],
+    "answer": "Sega"
+  },
+  {
+    "q": "¿Qué saga de SEGA presenta agentes secretos con puntería? (versión doméstica)",
+    "choices": [
+      "Rambo",
+      "Confidential Mission",
+      "Ghost Squad",
+      "Time Crisis"
+    ],
+    "answer": "Confidential Mission"
+  },
+  {
+    "q": "¿Qué saga de SEGA presenta agentes secretos con puntería? (versión doméstica)",
+    "choices": [
+      "Time Crisis",
+      "Rambo",
+      "Ghost Squad",
+      "Confidential Mission"
+    ],
+    "answer": "Confidential Mission"
+  },
+  {
+    "q": "Arcade militar de SEGA (2004) (detalles técnicos)",
+    "choices": [
+      "Ghost Squad",
+      "Time Crisis 4",
+      "Carnevil",
+      "Police Trainer"
+    ],
+    "answer": "Ghost Squad"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'The House of the Dead 3'? (detalles técnicos)",
+    "choices": [
+      "Raw Thrills",
+      "PlayMechanix",
+      "Sega",
       "Konami"
     ],
     "answer": "Sega"
   },
   {
-    "q": "¿Pistola moderna que detecta bordes en LCD?",
+    "q": "¿Qué compañía publicó principalmente 'Operation Wolf Returns'? (historia)",
     "choices": [
+      "Konami",
+      "Namco",
+      "Sega",
+      "Taito"
+    ],
+    "answer": "Taito"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Carnevil'? (detalles técnicos)",
+    "choices": [
+      "Atari/Midway",
+      "Sega",
+      "Taito",
+      "Namco"
+    ],
+    "answer": "Atari/Midway"
+  },
+  {
+    "q": "¿Cuál usa escudo balístico? (detalles técnicos)",
+    "choices": [
+      "Razing Storm",
+      "Virtua Cop 3",
+      "Crisis Zone",
+      "Endgame"
+    ],
+    "answer": "Crisis Zone"
+  },
+  {
+    "q": "¿Cuál usa escudo balístico? (curiosidad)",
+    "choices": [
+      "Endgame",
+      "Razing Storm",
+      "Crisis Zone",
+      "Virtua Cop 3"
+    ],
+    "answer": "Crisis Zone"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Crisis Zone'? (hardware)",
+    "choices": [
+      "Namco",
+      "Raw Thrills",
+      "Atari/Midway",
+      "Taito"
+    ],
+    "answer": "Namco"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Virtua Cop'? (curiosidad)",
+    "choices": [
+      "Atari/Midway",
+      "Sega",
+      "PlayMechanix",
+      "Namco"
+    ],
+    "answer": "Sega"
+  },
+  {
+    "q": "¿Qué frontend integra EmulationStation en Windows? (historia)",
+    "choices": [
+      "RetroBat",
+      "OpenEmu",
+      "Recalbox",
+      "Batocera"
+    ],
+    "answer": "RetroBat"
+  },
+  {
+    "q": "Recarga típica en Time Crisis (detalles técnicos)",
+    "choices": [
+      "Apuntar fuera",
+      "Agacharse con pedal",
+      "Botón A",
+      "Agitar pistola"
+    ],
+    "answer": "Agacharse con pedal"
+  },
+  {
+    "q": "¿Qué light-gun USB popular suele usarse con barra IR? (hardware)",
+    "choices": [
+      "AimTrak",
       "Sinden Lightgun",
-      "GunCon 2",
-      "Justifier",
-      "Zapper"
+      "Gun4IR",
+      "Wiimote + DolphinBar"
     ],
-    "answer": "Sinden Lightgun"
+    "answer": "AimTrak"
   },
   {
-    "q": "¿Qué saga de Namco usa pedal para cubrirse?",
+    "q": "¿Qué compañía publicó principalmente 'Rambo'? (historia)",
     "choices": [
-      "Virtua Cop",
-      "Time Crisis",
-      "The House of the Dead",
-      "Area 51"
+      "PlayMechanix",
+      "Konami",
+      "Sega",
+      "Raw Thrills"
     ],
-    "answer": "Time Crisis"
+    "answer": "Sega"
   },
   {
-    "q": "¿Accesorio light-gun de SNES?",
+    "q": "¿Qué compañía publicó principalmente 'Crisis Zone'? (detalles técnicos)",
+    "choices": [
+      "Raw Thrills",
+      "Atari/Midway",
+      "Taito",
+      "Namco"
+    ],
+    "answer": "Namco"
+  },
+  {
+    "q": "¿Accesorio light-gun de SNES? (arcade clásico)",
     "choices": [
       "Light Phaser",
       "Menacer",
@@ -80,43 +4850,1653 @@
     "answer": "Super Scope"
   },
   {
-    "q": "¿Quién desarrolló Virtua Cop?",
+    "q": "¿Qué compañía publicó principalmente 'Area 51'? (historia)",
+    "choices": [
+      "PlayMechanix",
+      "Namco",
+      "Raw Thrills",
+      "Atari/Midway"
+    ],
+    "answer": "Atari/Midway"
+  },
+  {
+    "q": "Light-gun de terror gore de Midway (detalles técnicos)",
+    "choices": [
+      "Dark Escape 4D",
+      "Area 51",
+      "Carnevil",
+      "Alien 3: The Gun"
+    ],
+    "answer": "Carnevil"
+  },
+  {
+    "q": "¿Accesorio oficial asociado a Master System para pistolas de luz? (curiosidad)",
+    "choices": [
+      "Menacer",
+      "Light Phaser",
+      "Super Scope",
+      "Zapper"
+    ],
+    "answer": "Light Phaser"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Revolution X'? (curiosidad)",
+    "choices": [
+      "Atari/Midway",
+      "Namco",
+      "Raw Thrills",
+      "Konami"
+    ],
+    "answer": "Atari/Midway"
+  },
+  {
+    "q": "¿Qué launcher corre arcades recientes en Windows? (arcade clásico)",
+    "choices": [
+      "MAME",
+      "TeknoParrot",
+      "PCSX2",
+      "RetroArch"
+    ],
+    "answer": "TeknoParrot"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Operation Wolf'? (detalles técnicos)",
     "choices": [
       "Konami",
-      "Capcom",
+      "PlayMechanix",
+      "Atari/Midway",
+      "Taito"
+    ],
+    "answer": "Taito"
+  },
+  {
+    "q": "Light-gun de terror gore de Midway (curiosidad)",
+    "choices": [
+      "Dark Escape 4D",
+      "Carnevil",
+      "Area 51",
+      "Alien 3: The Gun"
+    ],
+    "answer": "Carnevil"
+  },
+  {
+    "q": "Pistola que detecta el borde en LCD (hardware)",
+    "choices": [
+      "GunCon 2",
+      "Zapper",
+      "Sinden Lightgun",
+      "Justifier"
+    ],
+    "answer": "Sinden Lightgun"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Gunblade NY'? (detalles técnicos)",
+    "choices": [
+      "Atari/Midway",
+      "Namco",
+      "Sega",
+      "PlayMechanix"
+    ],
+    "answer": "Sega"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Deadstorm Pirates'? (arcade clásico)",
+    "choices": [
+      "Sega",
+      "Konami",
+      "Namco",
+      "PlayMechanix"
+    ],
+    "answer": "Namco"
+  },
+  {
+    "q": "¿En qué saga recargas al *agacharte* con pedal? (hardware)",
+    "choices": [
+      "Virtua Cop",
+      "Police Trainer",
+      "Point Blank",
+      "Time Crisis"
+    ],
+    "answer": "Time Crisis"
+  },
+  {
+    "q": "¿Cómo se llamó la pistola oficial de PS1 en Europa? (historia)",
+    "choices": [
+      "G‑Con 45",
+      "Menacer",
+      "GunCon",
+      "Justifier"
+    ],
+    "answer": "G‑Con 45"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'The House of the Dead'? (versión doméstica)",
+    "choices": [
+      "PlayMechanix",
+      "Namco",
+      "Sega",
+      "Taito"
+    ],
+    "answer": "Sega"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Area 51'? (arcade clásico)",
+    "choices": [
+      "Atari/Midway",
+      "Raw Thrills",
+      "PlayMechanix",
+      "Namco"
+    ],
+    "answer": "Atari/Midway"
+  },
+  {
+    "q": "Light-gun policial de Taito (1987) (detalles técnicos)",
+    "choices": [
+      "Operation Wolf",
+      "Ninja Assault",
+      "Operation Tiger",
+      "Operation Thunderbolt"
+    ],
+    "answer": "Operation Wolf"
+  },
+  {
+    "q": "Light-gun de terror gore de Midway (historia)",
+    "choices": [
+      "Area 51",
+      "Dark Escape 4D",
+      "Carnevil",
+      "Alien 3: The Gun"
+    ],
+    "answer": "Carnevil"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Aliens Armageddon'? (versión doméstica)",
+    "choices": [
+      "Atari/Midway",
+      "Sega",
+      "Taito",
+      "Raw Thrills"
+    ],
+    "answer": "Raw Thrills"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Lethal Enforcers'? (historia)",
+    "choices": [
+      "Sega",
+      "Konami",
+      "Raw Thrills",
+      "Atari/Midway"
+    ],
+    "answer": "Konami"
+  },
+  {
+    "q": "¿Accesorio oficial asociado a NES para pistolas de luz? (arcade clásico)",
+    "choices": [
+      "Menacer",
+      "Super Scope",
+      "Zapper",
+      "GunCon 3"
+    ],
+    "answer": "Zapper"
+  },
+  {
+    "q": "Pistola que detecta el borde en LCD (versión doméstica)",
+    "choices": [
+      "Sinden Lightgun",
+      "GunCon 2",
+      "Justifier",
+      "Zapper"
+    ],
+    "answer": "Sinden Lightgun"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Time Crisis 4'? (arcade clásico)",
+    "choices": [
+      "Konami",
+      "PlayMechanix",
+      "Sega",
+      "Namco"
+    ],
+    "answer": "Namco"
+  },
+  {
+    "q": "¿Qué pantalla es ideal para pistolas ópticas clásicas? (curiosidad)",
+    "choices": [
+      "OLED",
+      "CRT",
+      "LCD",
+      "Plasma"
+    ],
+    "answer": "CRT"
+  },
+  {
+    "q": "¿Qué saga de SEGA presenta agentes secretos con puntería? (detalles técnicos)",
+    "choices": [
+      "Rambo",
+      "Ghost Squad",
+      "Confidential Mission",
+      "Time Crisis"
+    ],
+    "answer": "Confidential Mission"
+  },
+  {
+    "q": "¿Cómo se llamó la pistola oficial de PS1 en Europa? (detalles técnicos)",
+    "choices": [
+      "G‑Con 45",
+      "Menacer",
+      "GunCon",
+      "Justifier"
+    ],
+    "answer": "G‑Con 45"
+  },
+  {
+    "q": "Light-gun de terror gore de Midway (detalles técnicos)",
+    "choices": [
+      "Alien 3: The Gun",
+      "Carnevil",
+      "Area 51",
+      "Dark Escape 4D"
+    ],
+    "answer": "Carnevil"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Aliens Armageddon'? (detalles técnicos)",
+    "choices": [
+      "Atari/Midway",
+      "Sega",
+      "Taito",
+      "Raw Thrills"
+    ],
+    "answer": "Raw Thrills"
+  },
+  {
+    "q": "¿Qué pantalla es ideal para pistolas ópticas clásicas? (versión doméstica)",
+    "choices": [
+      "CRT",
+      "LCD",
+      "Plasma",
+      "OLED"
+    ],
+    "answer": "CRT"
+  },
+  {
+    "q": "Light-gun de terror gore de Midway (hardware)",
+    "choices": [
+      "Carnevil",
+      "Alien 3: The Gun",
+      "Area 51",
+      "Dark Escape 4D"
+    ],
+    "answer": "Carnevil"
+  },
+  {
+    "q": "¿Accesorio oficial asociado a Mega Drive/Genesis para pistolas de luz? (arcade clásico)",
+    "choices": [
+      "Super Scope",
+      "GunCon 3",
+      "GunCon 2",
+      "Menacer"
+    ],
+    "answer": "Menacer"
+  },
+  {
+    "q": "Light-gun de terror gore de Midway (versión doméstica)",
+    "choices": [
+      "Alien 3: The Gun",
+      "Carnevil",
+      "Area 51",
+      "Dark Escape 4D"
+    ],
+    "answer": "Carnevil"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Carnevil'? (historia)",
+    "choices": [
+      "Sega",
+      "Atari/Midway",
+      "Namco",
+      "Taito"
+    ],
+    "answer": "Atari/Midway"
+  },
+  {
+    "q": "¿Qué saga de SEGA presenta agentes secretos con puntería? (hardware)",
+    "choices": [
+      "Rambo",
+      "Ghost Squad",
+      "Time Crisis",
+      "Confidential Mission"
+    ],
+    "answer": "Confidential Mission"
+  },
+  {
+    "q": "¿Accesorio oficial asociado a Mega Drive/Genesis para pistolas de luz? (historia)",
+    "choices": [
+      "GunCon 3",
+      "Menacer",
+      "GunCon 2",
+      "Super Scope"
+    ],
+    "answer": "Menacer"
+  },
+  {
+    "q": "¿Accesorio oficial asociado a Master System para pistolas de luz? (curiosidad)",
+    "choices": [
+      "Zapper",
+      "Super Scope",
+      "Menacer",
+      "Light Phaser"
+    ],
+    "answer": "Light Phaser"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'The House of the Dead'? (curiosidad)",
+    "choices": [
+      "PlayMechanix",
+      "Sega",
+      "Namco",
+      "Taito"
+    ],
+    "answer": "Sega"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Revolution X'? (versión doméstica)",
+    "choices": [
+      "Konami",
+      "Atari/Midway",
+      "Namco",
+      "Raw Thrills"
+    ],
+    "answer": "Atari/Midway"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Let's Go Jungle'? (historia)",
+    "choices": [
+      "Sega",
+      "PlayMechanix",
+      "Raw Thrills",
+      "Atari/Midway"
+    ],
+    "answer": "Sega"
+  },
+  {
+    "q": "¿Qué pistola moderna detecta bordes de pantalla sin barra IR? (hardware)",
+    "choices": [
+      "Sinden Lightgun",
+      "Wiimote + DolphinBar",
+      "AimTrak",
+      "Gun4IR"
+    ],
+    "answer": "Sinden Lightgun"
+  },
+  {
+    "q": "¿Accesorio oficial asociado a NES para pistolas de luz? (arcade clásico)",
+    "choices": [
+      "GunCon 3",
+      "Menacer",
+      "Zapper",
+      "Super Scope"
+    ],
+    "answer": "Zapper"
+  },
+  {
+    "q": "¿Qué sistema moderno usa LEDs IR en las esquinas del marco? (historia)",
+    "choices": [
+      "Wiimote + DolphinBar",
+      "Gun4IR",
+      "AimTrak",
+      "Sinden Lightgun"
+    ],
+    "answer": "Gun4IR"
+  },
+  {
+    "q": "¿Qué light-gun USB popular suele usarse con barra IR? (hardware)",
+    "choices": [
+      "Gun4IR",
+      "Sinden Lightgun",
+      "Wiimote + DolphinBar",
+      "AimTrak"
+    ],
+    "answer": "AimTrak"
+  },
+  {
+    "q": "¿Qué pantalla es ideal para pistolas ópticas clásicas? (arcade clásico)",
+    "choices": [
+      "Plasma",
+      "CRT",
+      "OLED",
+      "LCD"
+    ],
+    "answer": "CRT"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Silent Scope 2'? (curiosidad)",
+    "choices": [
+      "Sega",
+      "Namco",
+      "Konami",
+      "PlayMechanix"
+    ],
+    "answer": "Konami"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Terminator Salvation'? (arcade clásico)",
+    "choices": [
+      "Raw Thrills",
+      "PlayMechanix",
+      "Taito",
+      "Namco"
+    ],
+    "answer": "Raw Thrills"
+  },
+  {
+    "q": "¿Cómo se llamó la pistola oficial de PS1 en Europa? (arcade clásico)",
+    "choices": [
+      "G‑Con 45",
+      "Menacer",
+      "Justifier",
+      "GunCon"
+    ],
+    "answer": "G‑Con 45"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Operation Wolf'? (detalles técnicos)",
+    "choices": [
+      "Atari/Midway",
+      "PlayMechanix",
+      "Taito",
+      "Konami"
+    ],
+    "answer": "Taito"
+  },
+  {
+    "q": "¿Qué combo se usa a menudo para jugar en PC? (hardware)",
+    "choices": [
+      "AimTrak",
+      "Gun4IR",
+      "Wiimote + DolphinBar",
+      "Sinden Lightgun"
+    ],
+    "answer": "Wiimote + DolphinBar"
+  },
+  {
+    "q": "¿Accesorio oficial asociado a Wii para pistolas de luz? (detalles técnicos)",
+    "choices": [
+      "GunCon 2",
+      "Light Phaser",
+      "Wii Zapper",
+      "GunCon 3"
+    ],
+    "answer": "Wii Zapper"
+  },
+  {
+    "q": "¿Qué launcher corre arcades recientes en Windows? (hardware)",
+    "choices": [
+      "TeknoParrot",
+      "RetroArch",
+      "MAME",
+      "PCSX2"
+    ],
+    "answer": "TeknoParrot"
+  },
+  {
+    "q": "¿Accesorio oficial asociado a PS3 para pistolas de luz? (hardware)",
+    "choices": [
+      "Zapper",
+      "GunCon 3",
+      "Light Phaser",
+      "G‑Con 45"
+    ],
+    "answer": "GunCon 3"
+  },
+  {
+    "q": "¿Cuál usa escudo balístico? (detalles técnicos)",
+    "choices": [
+      "Razing Storm",
+      "Crisis Zone",
+      "Virtua Cop 3",
+      "Endgame"
+    ],
+    "answer": "Crisis Zone"
+  },
+  {
+    "q": "¿Qué saga de SEGA presenta agentes secretos con puntería? (versión doméstica)",
+    "choices": [
+      "Time Crisis",
+      "Rambo",
+      "Confidential Mission",
+      "Ghost Squad"
+    ],
+    "answer": "Confidential Mission"
+  },
+  {
+    "q": "¿Qué combo se usa a menudo para jugar en PC? (versión doméstica)",
+    "choices": [
+      "Gun4IR",
+      "Wiimote + DolphinBar",
+      "AimTrak",
+      "Sinden Lightgun"
+    ],
+    "answer": "Wiimote + DolphinBar"
+  },
+  {
+    "q": "Light-gun de terror gore de Midway (historia)",
+    "choices": [
+      "Alien 3: The Gun",
+      "Carnevil",
+      "Dark Escape 4D",
+      "Area 51"
+    ],
+    "answer": "Carnevil"
+  },
+  {
+    "q": "¿Qué saga de SEGA presenta agentes secretos con puntería? (curiosidad)",
+    "choices": [
+      "Ghost Squad",
+      "Rambo",
+      "Confidential Mission",
+      "Time Crisis"
+    ],
+    "answer": "Confidential Mission"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Maximum Force'? (detalles técnicos)",
+    "choices": [
+      "Raw Thrills",
+      "PlayMechanix",
+      "Namco",
+      "Atari/Midway"
+    ],
+    "answer": "Atari/Midway"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Time Crisis 4'? (hardware)",
+    "choices": [
+      "Namco",
+      "Sega",
+      "PlayMechanix",
+      "Konami"
+    ],
+    "answer": "Namco"
+  },
+  {
+    "q": "Spinoff light-gun de Resident Evil en PS2 (versión doméstica)",
+    "choices": [
+      "Outbreak",
+      "Survivor",
+      "Dead Aim",
+      "Dino Stalker"
+    ],
+    "answer": "Dino Stalker"
+  },
+  {
+    "q": "¿Cuál usa escudo balístico? (detalles técnicos)",
+    "choices": [
+      "Crisis Zone",
+      "Endgame",
+      "Virtua Cop 3",
+      "Razing Storm"
+    ],
+    "answer": "Crisis Zone"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Operation Ghost'? (detalles técnicos)",
+    "choices": [
+      "PlayMechanix",
+      "Sega",
+      "Raw Thrills",
+      "Atari/Midway"
+    ],
+    "answer": "Sega"
+  },
+  {
+    "q": "¿Qué frontend integra EmulationStation en Windows? (arcade clásico)",
+    "choices": [
+      "Batocera",
+      "Recalbox",
+      "RetroBat",
+      "OpenEmu"
+    ],
+    "answer": "RetroBat"
+  },
+  {
+    "q": "Light-gun policial de Taito (1987) (hardware)",
+    "choices": [
+      "Ninja Assault",
+      "Operation Wolf",
+      "Operation Tiger",
+      "Operation Thunderbolt"
+    ],
+    "answer": "Operation Wolf"
+  },
+  {
+    "q": "¿Qué saga de SEGA presenta agentes secretos con puntería? (hardware)",
+    "choices": [
+      "Confidential Mission",
+      "Rambo",
+      "Ghost Squad",
+      "Time Crisis"
+    ],
+    "answer": "Confidential Mission"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'The House of the Dead 3'? (detalles técnicos)",
+    "choices": [
+      "PlayMechanix",
+      "Raw Thrills",
+      "Konami",
+      "Sega"
+    ],
+    "answer": "Sega"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Carnevil'? (curiosidad)",
+    "choices": [
+      "Sega",
+      "Namco",
+      "Atari/Midway",
+      "Taito"
+    ],
+    "answer": "Atari/Midway"
+  },
+  {
+    "q": "Spinoff light-gun de Resident Evil en PS2 (hardware)",
+    "choices": [
+      "Dino Stalker",
+      "Dead Aim",
+      "Outbreak",
+      "Survivor"
+    ],
+    "answer": "Dino Stalker"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Terminator Salvation'? (curiosidad)",
+    "choices": [
+      "Raw Thrills",
+      "Namco",
+      "Taito",
+      "PlayMechanix"
+    ],
+    "answer": "Raw Thrills"
+  },
+  {
+    "q": "¿Accesorio oficial asociado a NES para pistolas de luz? (curiosidad)",
+    "choices": [
+      "Menacer",
+      "Zapper",
+      "GunCon 3",
+      "Super Scope"
+    ],
+    "answer": "Zapper"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Maximum Force'? (curiosidad)",
+    "choices": [
+      "Namco",
+      "Atari/Midway",
+      "Raw Thrills",
+      "PlayMechanix"
+    ],
+    "answer": "Atari/Midway"
+  },
+  {
+    "q": "¿Cuál usa escudo balístico? (hardware)",
+    "choices": [
+      "Virtua Cop 3",
+      "Razing Storm",
+      "Endgame",
+      "Crisis Zone"
+    ],
+    "answer": "Crisis Zone"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Big Buck Hunter'? (versión doméstica)",
+    "choices": [
+      "Taito",
+      "Sega",
+      "PlayMechanix",
+      "Atari/Midway"
+    ],
+    "answer": "PlayMechanix"
+  },
+  {
+    "q": "¿Cuál usa escudo balístico? (detalles técnicos)",
+    "choices": [
+      "Endgame",
+      "Virtua Cop 3",
+      "Razing Storm",
+      "Crisis Zone"
+    ],
+    "answer": "Crisis Zone"
+  },
+  {
+    "q": "Spinoff light-gun de Resident Evil en PS2 (versión doméstica)",
+    "choices": [
+      "Dino Stalker",
+      "Survivor",
+      "Outbreak",
+      "Dead Aim"
+    ],
+    "answer": "Dino Stalker"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Carnevil'? (curiosidad)",
+    "choices": [
+      "Sega",
+      "Atari/Midway",
+      "Namco",
+      "Taito"
+    ],
+    "answer": "Atari/Midway"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Confidential Mission'? (detalles técnicos)",
+    "choices": [
+      "Namco",
+      "Sega",
+      "Konami",
+      "Taito"
+    ],
+    "answer": "Sega"
+  },
+  {
+    "q": "Light-gun de terror gore de Midway (arcade clásico)",
+    "choices": [
+      "Dark Escape 4D",
+      "Alien 3: The Gun",
+      "Carnevil",
+      "Area 51"
+    ],
+    "answer": "Carnevil"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Aliens Armageddon'? (curiosidad)",
+    "choices": [
+      "Raw Thrills",
+      "Atari/Midway",
+      "Taito",
+      "Sega"
+    ],
+    "answer": "Raw Thrills"
+  },
+  {
+    "q": "¿Accesorio oficial asociado a SNES para pistolas de luz? (arcade clásico)",
+    "choices": [
+      "Menacer",
+      "Wii Zapper",
+      "Super Scope",
+      "Zapper"
+    ],
+    "answer": "Super Scope"
+  },
+  {
+    "q": "¿Accesorio oficial asociado a Wii para pistolas de luz? (detalles técnicos)",
+    "choices": [
+      "GunCon 2",
+      "Wii Zapper",
+      "GunCon 3",
+      "Light Phaser"
+    ],
+    "answer": "Wii Zapper"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Maximum Force'? (arcade clásico)",
+    "choices": [
+      "Namco",
+      "Atari/Midway",
+      "PlayMechanix",
+      "Raw Thrills"
+    ],
+    "answer": "Atari/Midway"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Time Crisis 3'? (detalles técnicos)",
+    "choices": [
+      "Konami",
+      "Raw Thrills",
+      "Sega",
+      "Namco"
+    ],
+    "answer": "Namco"
+  },
+  {
+    "q": "¿Qué saga de Namco usa pedal para cubrirse? (curiosidad)",
+    "choices": [
+      "Virtua Cop",
+      "The House of the Dead",
+      "Area 51",
+      "Time Crisis"
+    ],
+    "answer": "Time Crisis"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Area 51'? (versión doméstica)",
+    "choices": [
+      "Namco",
+      "Raw Thrills",
+      "Atari/Midway",
+      "PlayMechanix"
+    ],
+    "answer": "Atari/Midway"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'L.A. Machineguns'? (curiosidad)",
+    "choices": [
+      "Raw Thrills",
+      "Sega",
+      "PlayMechanix",
+      "Konami"
+    ],
+    "answer": "Sega"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Operation Ghost'? (versión doméstica)",
+    "choices": [
+      "PlayMechanix",
+      "Atari/Midway",
+      "Raw Thrills",
+      "Sega"
+    ],
+    "answer": "Sega"
+  },
+  {
+    "q": "Arcade militar de SEGA (2004) (historia)",
+    "choices": [
+      "Police Trainer",
+      "Time Crisis 4",
+      "Carnevil",
+      "Ghost Squad"
+    ],
+    "answer": "Ghost Squad"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'The House of the Dead 2'? (versión doméstica)",
+    "choices": [
+      "Konami",
+      "Namco",
       "Taito",
       "Sega"
     ],
     "answer": "Sega"
   },
   {
-    "q": "¿Pistola moderna que detecta bordes en LCD?",
+    "q": "¿Qué compañía publicó principalmente 'Virtua Cop'? (historia)",
+    "choices": [
+      "Sega",
+      "PlayMechanix",
+      "Atari/Midway",
+      "Namco"
+    ],
+    "answer": "Sega"
+  },
+  {
+    "q": "¿Accesorio oficial asociado a PS1 para pistolas de luz? (hardware)",
     "choices": [
       "Zapper",
+      "Wii Zapper",
+      "G‑Con 45",
+      "GunCon 2"
+    ],
+    "answer": "G‑Con 45"
+  },
+  {
+    "q": "Recarga típica en Time Crisis (historia)",
+    "choices": [
+      "Apuntar fuera",
+      "Botón A",
+      "Agacharse con pedal",
+      "Agitar pistola"
+    ],
+    "answer": "Agacharse con pedal"
+  },
+  {
+    "q": "¿En qué saga recargas al *agacharte* con pedal? (hardware)",
+    "choices": [
+      "Point Blank",
+      "Police Trainer",
+      "Time Crisis",
+      "Virtua Cop"
+    ],
+    "answer": "Time Crisis"
+  },
+  {
+    "q": "¿Qué saga de Namco usa pedal para cubrirse? (versión doméstica)",
+    "choices": [
+      "Time Crisis",
+      "Virtua Cop",
+      "The House of the Dead",
+      "Area 51"
+    ],
+    "answer": "Time Crisis"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Operation Wolf'? (hardware)",
+    "choices": [
+      "Konami",
+      "Atari/Midway",
+      "PlayMechanix",
+      "Taito"
+    ],
+    "answer": "Taito"
+  },
+  {
+    "q": "¿Qué pantalla es ideal para pistolas ópticas clásicas? (curiosidad)",
+    "choices": [
+      "LCD",
+      "OLED",
+      "CRT",
+      "Plasma"
+    ],
+    "answer": "CRT"
+  },
+  {
+    "q": "¿Cuál usa escudo balístico? (versión doméstica)",
+    "choices": [
+      "Razing Storm",
+      "Endgame",
+      "Virtua Cop 3",
+      "Crisis Zone"
+    ],
+    "answer": "Crisis Zone"
+  },
+  {
+    "q": "Spinoff light-gun de Resident Evil en PS2 (detalles técnicos)",
+    "choices": [
+      "Dead Aim",
+      "Survivor",
+      "Dino Stalker",
+      "Outbreak"
+    ],
+    "answer": "Dino Stalker"
+  },
+  {
+    "q": "Recarga típica en Time Crisis (arcade clásico)",
+    "choices": [
+      "Apuntar fuera",
+      "Agitar pistola",
+      "Botón A",
+      "Agacharse con pedal"
+    ],
+    "answer": "Agacharse con pedal"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Operation Wolf Returns'? (versión doméstica)",
+    "choices": [
+      "Konami",
+      "Namco",
+      "Taito",
+      "Sega"
+    ],
+    "answer": "Taito"
+  },
+  {
+    "q": "¿En qué saga recargas al *agacharte* con pedal? (detalles técnicos)",
+    "choices": [
+      "Virtua Cop",
+      "Point Blank",
+      "Police Trainer",
+      "Time Crisis"
+    ],
+    "answer": "Time Crisis"
+  },
+  {
+    "q": "En House of the Dead predominan… (hardware)",
+    "choices": [
+      "Robots",
+      "Aliens",
+      "Zombis",
+      "Soldados"
+    ],
+    "answer": "Zombis"
+  },
+  {
+    "q": "¿Qué saga de SEGA presenta agentes secretos con puntería? (curiosidad)",
+    "choices": [
+      "Confidential Mission",
+      "Time Crisis",
+      "Rambo",
+      "Ghost Squad"
+    ],
+    "answer": "Confidential Mission"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'The House of the Dead 2'? (hardware)",
+    "choices": [
+      "Namco",
+      "Taito",
+      "Sega",
+      "Konami"
+    ],
+    "answer": "Sega"
+  },
+  {
+    "q": "Spinoff light-gun de Resident Evil en PS2 (versión doméstica)",
+    "choices": [
+      "Dead Aim",
+      "Outbreak",
+      "Survivor",
+      "Dino Stalker"
+    ],
+    "answer": "Dino Stalker"
+  },
+  {
+    "q": "¿Qué frontend integra EmulationStation en Windows? (detalles técnicos)",
+    "choices": [
+      "Recalbox",
+      "RetroBat",
+      "OpenEmu",
+      "Batocera"
+    ],
+    "answer": "RetroBat"
+  },
+  {
+    "q": "¿Qué launcher corre arcades recientes en Windows? (curiosidad)",
+    "choices": [
+      "PCSX2",
+      "RetroArch",
+      "MAME",
+      "TeknoParrot"
+    ],
+    "answer": "TeknoParrot"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Operation Wolf'? (historia)",
+    "choices": [
+      "PlayMechanix",
+      "Taito",
+      "Konami",
+      "Atari/Midway"
+    ],
+    "answer": "Taito"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Deadstorm Pirates'? (curiosidad)",
+    "choices": [
+      "PlayMechanix",
+      "Namco",
+      "Sega",
+      "Konami"
+    ],
+    "answer": "Namco"
+  },
+  {
+    "q": "¿Qué frontend integra EmulationStation en Windows? (versión doméstica)",
+    "choices": [
+      "OpenEmu",
+      "Recalbox",
+      "Batocera",
+      "RetroBat"
+    ],
+    "answer": "RetroBat"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Time Crisis 3'? (hardware)",
+    "choices": [
+      "Sega",
+      "Konami",
+      "Namco",
+      "Raw Thrills"
+    ],
+    "answer": "Namco"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'The House of the Dead 2'? (detalles técnicos)",
+    "choices": [
+      "Konami",
+      "Sega",
+      "Taito",
+      "Namco"
+    ],
+    "answer": "Sega"
+  },
+  {
+    "q": "¿Qué launcher corre arcades recientes en Windows? (curiosidad)",
+    "choices": [
+      "TeknoParrot",
+      "MAME",
+      "RetroArch",
+      "PCSX2"
+    ],
+    "answer": "TeknoParrot"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Silent Scope 2'? (detalles técnicos)",
+    "choices": [
+      "PlayMechanix",
+      "Konami",
+      "Namco",
+      "Sega"
+    ],
+    "answer": "Konami"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Time Crisis 4'? (historia)",
+    "choices": [
+      "Sega",
+      "Konami",
+      "PlayMechanix",
+      "Namco"
+    ],
+    "answer": "Namco"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Operation Tiger'? (historia)",
+    "choices": [
+      "Taito",
+      "Konami",
+      "Atari/Midway",
+      "PlayMechanix"
+    ],
+    "answer": "Taito"
+  },
+  {
+    "q": "¿Qué pantalla es ideal para pistolas ópticas clásicas? (versión doméstica)",
+    "choices": [
+      "OLED",
+      "LCD",
+      "CRT",
+      "Plasma"
+    ],
+    "answer": "CRT"
+  },
+  {
+    "q": "Spinoff light-gun de Resident Evil en PS2 (curiosidad)",
+    "choices": [
+      "Survivor",
+      "Outbreak",
+      "Dino Stalker",
+      "Dead Aim"
+    ],
+    "answer": "Dino Stalker"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Maximum Force'? (hardware)",
+    "choices": [
+      "Namco",
+      "Atari/Midway",
+      "PlayMechanix",
+      "Raw Thrills"
+    ],
+    "answer": "Atari/Midway"
+  },
+  {
+    "q": "Arcade militar de SEGA (2004) (detalles técnicos)",
+    "choices": [
+      "Carnevil",
+      "Ghost Squad",
+      "Time Crisis 4",
+      "Police Trainer"
+    ],
+    "answer": "Ghost Squad"
+  },
+  {
+    "q": "¿Qué light-gun USB popular suele usarse con barra IR? (historia)",
+    "choices": [
+      "Gun4IR",
+      "AimTrak",
       "Sinden Lightgun",
+      "Wiimote + DolphinBar"
+    ],
+    "answer": "AimTrak"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Virtua Cop 2'? (historia)",
+    "choices": [
+      "Raw Thrills",
+      "Taito",
+      "Sega",
+      "Atari/Midway"
+    ],
+    "answer": "Sega"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'The House of the Dead 2'? (arcade clásico)",
+    "choices": [
+      "Taito",
+      "Sega",
+      "Namco",
+      "Konami"
+    ],
+    "answer": "Sega"
+  },
+  {
+    "q": "¿Cuál usa escudo balístico? (arcade clásico)",
+    "choices": [
+      "Razing Storm",
+      "Virtua Cop 3",
+      "Endgame",
+      "Crisis Zone"
+    ],
+    "answer": "Crisis Zone"
+  },
+  {
+    "q": "Light-gun de terror gore de Midway (detalles técnicos)",
+    "choices": [
+      "Alien 3: The Gun",
+      "Carnevil",
+      "Area 51",
+      "Dark Escape 4D"
+    ],
+    "answer": "Carnevil"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Revolution X'? (curiosidad)",
+    "choices": [
+      "Namco",
+      "Konami",
+      "Atari/Midway",
+      "Raw Thrills"
+    ],
+    "answer": "Atari/Midway"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Time Crisis 4'? (hardware)",
+    "choices": [
+      "Sega",
+      "Namco",
+      "PlayMechanix",
+      "Konami"
+    ],
+    "answer": "Namco"
+  },
+  {
+    "q": "En House of the Dead predominan… (historia)",
+    "choices": [
+      "Robots",
+      "Aliens",
+      "Soldados",
+      "Zombis"
+    ],
+    "answer": "Zombis"
+  },
+  {
+    "q": "¿Qué saga de SEGA presenta agentes secretos con puntería? (historia)",
+    "choices": [
+      "Time Crisis",
+      "Rambo",
+      "Confidential Mission",
+      "Ghost Squad"
+    ],
+    "answer": "Confidential Mission"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Rambo'? (curiosidad)",
+    "choices": [
+      "Raw Thrills",
+      "PlayMechanix",
+      "Konami",
+      "Sega"
+    ],
+    "answer": "Sega"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Deadstorm Pirates'? (hardware)",
+    "choices": [
+      "Namco",
+      "PlayMechanix",
+      "Sega",
+      "Konami"
+    ],
+    "answer": "Namco"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Operation Wolf Returns'? (curiosidad)",
+    "choices": [
+      "Konami",
+      "Namco",
+      "Sega",
+      "Taito"
+    ],
+    "answer": "Taito"
+  },
+  {
+    "q": "¿Qué light-gun USB popular suele usarse con barra IR? (versión doméstica)",
+    "choices": [
+      "AimTrak",
+      "Wiimote + DolphinBar",
+      "Sinden Lightgun",
+      "Gun4IR"
+    ],
+    "answer": "AimTrak"
+  },
+  {
+    "q": "¿Qué pantalla es ideal para pistolas ópticas clásicas? (arcade clásico)",
+    "choices": [
+      "Plasma",
+      "LCD",
+      "CRT",
+      "OLED"
+    ],
+    "answer": "CRT"
+  },
+  {
+    "q": "Spinoff light-gun de Resident Evil en PS2 (curiosidad)",
+    "choices": [
+      "Outbreak",
+      "Dino Stalker",
+      "Dead Aim",
+      "Survivor"
+    ],
+    "answer": "Dino Stalker"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Let's Go Island'? (detalles técnicos)",
+    "choices": [
+      "Konami",
+      "Sega",
+      "Taito",
+      "Atari/Midway"
+    ],
+    "answer": "Sega"
+  },
+  {
+    "q": "¿Qué saga de Namco usa pedal para cubrirse? (hardware)",
+    "choices": [
+      "Time Crisis",
+      "Virtua Cop",
+      "Area 51",
+      "The House of the Dead"
+    ],
+    "answer": "Time Crisis"
+  },
+  {
+    "q": "Light-gun de terror gore de Midway (detalles técnicos)",
+    "choices": [
+      "Dark Escape 4D",
+      "Carnevil",
+      "Alien 3: The Gun",
+      "Area 51"
+    ],
+    "answer": "Carnevil"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Let's Go Jungle'? (versión doméstica)",
+    "choices": [
+      "PlayMechanix",
+      "Sega",
+      "Raw Thrills",
+      "Atari/Midway"
+    ],
+    "answer": "Sega"
+  },
+  {
+    "q": "¿Qué pantalla es ideal para pistolas ópticas clásicas? (versión doméstica)",
+    "choices": [
+      "OLED",
+      "LCD",
+      "Plasma",
+      "CRT"
+    ],
+    "answer": "CRT"
+  },
+  {
+    "q": "¿Cómo se llamó la pistola oficial de PS1 en Europa? (hardware)",
+    "choices": [
+      "Justifier",
+      "Menacer",
+      "G‑Con 45",
+      "GunCon"
+    ],
+    "answer": "G‑Con 45"
+  },
+  {
+    "q": "¿Cuál usa escudo balístico? (historia)",
+    "choices": [
+      "Razing Storm",
+      "Virtua Cop 3",
+      "Endgame",
+      "Crisis Zone"
+    ],
+    "answer": "Crisis Zone"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Operation Tiger'? (curiosidad)",
+    "choices": [
+      "PlayMechanix",
+      "Konami",
+      "Atari/Midway",
+      "Taito"
+    ],
+    "answer": "Taito"
+  },
+  {
+    "q": "¿Cuál usa escudo balístico? (historia)",
+    "choices": [
+      "Crisis Zone",
+      "Endgame",
+      "Razing Storm",
+      "Virtua Cop 3"
+    ],
+    "answer": "Crisis Zone"
+  },
+  {
+    "q": "Light-gun de terror gore de Midway (arcade clásico)",
+    "choices": [
+      "Area 51",
+      "Carnevil",
+      "Dark Escape 4D",
+      "Alien 3: The Gun"
+    ],
+    "answer": "Carnevil"
+  },
+  {
+    "q": "¿Quién desarrolló Virtua Cop? (versión doméstica)",
+    "choices": [
+      "Taito",
+      "Konami",
+      "Sega",
+      "Capcom"
+    ],
+    "answer": "Sega"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Point Blank'? (curiosidad)",
+    "choices": [
+      "Atari/Midway",
+      "Raw Thrills",
+      "Namco",
+      "Konami"
+    ],
+    "answer": "Namco"
+  },
+  {
+    "q": "¿Qué frontend integra EmulationStation en Windows? (arcade clásico)",
+    "choices": [
+      "Recalbox",
+      "OpenEmu",
+      "RetroBat",
+      "Batocera"
+    ],
+    "answer": "RetroBat"
+  },
+  {
+    "q": "¿Qué pantalla es ideal para pistolas ópticas clásicas? (arcade clásico)",
+    "choices": [
+      "OLED",
+      "LCD",
+      "CRT",
+      "Plasma"
+    ],
+    "answer": "CRT"
+  },
+  {
+    "q": "¿Accesorio oficial asociado a PS2 para pistolas de luz? (historia)",
+    "choices": [
+      "GunCon 2",
+      "Light Phaser",
+      "Super Scope",
+      "G‑Con 45"
+    ],
+    "answer": "GunCon 2"
+  },
+  {
+    "q": "Juego de dianas loco de Namco (arcade clásico)",
+    "choices": [
+      "Operation Wolf",
+      "Police Trainer",
+      "Carnevil",
+      "Point Blank"
+    ],
+    "answer": "Point Blank"
+  },
+  {
+    "q": "Light-gun de terror gore de Midway (arcade clásico)",
+    "choices": [
+      "Alien 3: The Gun",
+      "Area 51",
+      "Dark Escape 4D",
+      "Carnevil"
+    ],
+    "answer": "Carnevil"
+  },
+  {
+    "q": "¿Qué pantalla es ideal para pistolas ópticas clásicas? (detalles técnicos)",
+    "choices": [
+      "LCD",
+      "OLED",
+      "CRT",
+      "Plasma"
+    ],
+    "answer": "CRT"
+  },
+  {
+    "q": "¿Cuál usa escudo balístico? (hardware)",
+    "choices": [
+      "Razing Storm",
+      "Crisis Zone",
+      "Virtua Cop 3",
+      "Endgame"
+    ],
+    "answer": "Crisis Zone"
+  },
+  {
+    "q": "¿Qué light-gun USB popular suele usarse con barra IR? (curiosidad)",
+    "choices": [
+      "Wiimote + DolphinBar",
+      "Gun4IR",
+      "Sinden Lightgun",
+      "AimTrak"
+    ],
+    "answer": "AimTrak"
+  },
+  {
+    "q": "¿Qué launcher corre arcades recientes en Windows? (historia)",
+    "choices": [
+      "RetroArch",
+      "PCSX2",
+      "TeknoParrot",
+      "MAME"
+    ],
+    "answer": "TeknoParrot"
+  },
+  {
+    "q": "¿Qué frontend integra EmulationStation en Windows? (detalles técnicos)",
+    "choices": [
+      "Batocera",
+      "RetroBat",
+      "OpenEmu",
+      "Recalbox"
+    ],
+    "answer": "RetroBat"
+  },
+  {
+    "q": "Pistola que detecta el borde en LCD (hardware)",
+    "choices": [
+      "Sinden Lightgun",
+      "Zapper",
       "Justifier",
       "GunCon 2"
     ],
     "answer": "Sinden Lightgun"
   },
   {
-    "q": "¿Pistola moderna que detecta bordes en LCD?",
+    "q": "¿Qué compañía publicó principalmente 'Operation Wolf'? (curiosidad)",
     "choices": [
-      "Zapper",
+      "Konami",
+      "Atari/Midway",
+      "Taito",
+      "PlayMechanix"
+    ],
+    "answer": "Taito"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Deadstorm Pirates'? (arcade clásico)",
+    "choices": [
+      "Konami",
+      "PlayMechanix",
+      "Sega",
+      "Namco"
+    ],
+    "answer": "Namco"
+  },
+  {
+    "q": "Pistola que detecta el borde en LCD (versión doméstica)",
+    "choices": [
+      "Sinden Lightgun",
       "Justifier",
-      "GunCon 2",
-      "Sinden Lightgun"
+      "Zapper",
+      "GunCon 2"
     ],
     "answer": "Sinden Lightgun"
   },
   {
-    "q": "¿Pistola moderna que detecta bordes en LCD?",
+    "q": "¿Qué compañía publicó principalmente 'Time Crisis 5'? (versión doméstica)",
     "choices": [
-      "GunCon 2",
-      "Justifier",
-      "Zapper",
-      "Sinden Lightgun"
+      "Atari/Midway",
+      "Sega",
+      "Namco",
+      "Konami"
     ],
-    "answer": "Sinden Lightgun"
+    "answer": "Namco"
+  },
+  {
+    "q": "¿Accesorio oficial asociado a NES para pistolas de luz? (detalles técnicos)",
+    "choices": [
+      "Zapper",
+      "Menacer",
+      "Super Scope",
+      "GunCon 3"
+    ],
+    "answer": "Zapper"
+  },
+  {
+    "q": "¿Accesorio oficial asociado a Master System para pistolas de luz? (versión doméstica)",
+    "choices": [
+      "Super Scope",
+      "Menacer",
+      "Light Phaser",
+      "Zapper"
+    ],
+    "answer": "Light Phaser"
+  },
+  {
+    "q": "¿Qué launcher corre arcades recientes en Windows? (detalles técnicos)",
+    "choices": [
+      "TeknoParrot",
+      "MAME",
+      "PCSX2",
+      "RetroArch"
+    ],
+    "answer": "TeknoParrot"
+  },
+  {
+    "q": "¿Qué launcher corre arcades recientes en Windows? (versión doméstica)",
+    "choices": [
+      "PCSX2",
+      "TeknoParrot",
+      "RetroArch",
+      "MAME"
+    ],
+    "answer": "TeknoParrot"
+  },
+  {
+    "q": "¿Qué compañía publicó principalmente 'Jurassic Park Arcade'? (hardware)",
+    "choices": [
+      "Raw Thrills",
+      "Atari/Midway",
+      "Namco",
+      "PlayMechanix"
+    ],
+    "answer": "Raw Thrills"
   }
 ]

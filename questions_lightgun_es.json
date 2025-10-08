@@ -1,0 +1,122 @@
+[
+  {
+    "q": "¿Accesorio light-gun de SNES?",
+    "choices": [
+      "Light Phaser",
+      "Menacer",
+      "Zapper",
+      "Super Scope"
+    ],
+    "answer": "Super Scope"
+  },
+  {
+    "q": "¿Juego de dianas loco de Namco?",
+    "choices": [
+      "Operation Wolf",
+      "Carnevil",
+      "Police Trainer",
+      "Point Blank"
+    ],
+    "answer": "Point Blank"
+  },
+  {
+    "q": "¿Pistola moderna que detecta bordes en LCD?",
+    "choices": [
+      "GunCon 2",
+      "Zapper",
+      "Sinden Lightgun",
+      "Justifier"
+    ],
+    "answer": "Sinden Lightgun"
+  },
+  {
+    "q": "¿Quién desarrolló Virtua Cop?",
+    "choices": [
+      "Taito",
+      "Konami",
+      "Sega",
+      "Capcom"
+    ],
+    "answer": "Sega"
+  },
+  {
+    "q": "¿Quién desarrolló Virtua Cop?",
+    "choices": [
+      "Taito",
+      "Sega",
+      "Capcom",
+      "Konami"
+    ],
+    "answer": "Sega"
+  },
+  {
+    "q": "¿Pistola moderna que detecta bordes en LCD?",
+    "choices": [
+      "Sinden Lightgun",
+      "GunCon 2",
+      "Justifier",
+      "Zapper"
+    ],
+    "answer": "Sinden Lightgun"
+  },
+  {
+    "q": "¿Qué saga de Namco usa pedal para cubrirse?",
+    "choices": [
+      "Virtua Cop",
+      "Time Crisis",
+      "The House of the Dead",
+      "Area 51"
+    ],
+    "answer": "Time Crisis"
+  },
+  {
+    "q": "¿Accesorio light-gun de SNES?",
+    "choices": [
+      "Light Phaser",
+      "Menacer",
+      "Zapper",
+      "Super Scope"
+    ],
+    "answer": "Super Scope"
+  },
+  {
+    "q": "¿Quién desarrolló Virtua Cop?",
+    "choices": [
+      "Konami",
+      "Capcom",
+      "Taito",
+      "Sega"
+    ],
+    "answer": "Sega"
+  },
+  {
+    "q": "¿Pistola moderna que detecta bordes en LCD?",
+    "choices": [
+      "Zapper",
+      "Sinden Lightgun",
+      "Justifier",
+      "GunCon 2"
+    ],
+    "answer": "Sinden Lightgun"
+  },
+  {
+    "q": "¿Pistola moderna que detecta bordes en LCD?",
+    "choices": [
+      "Zapper",
+      "Justifier",
+      "GunCon 2",
+      "Sinden Lightgun"
+    ],
+    "answer": "Sinden Lightgun"
+  },
+  {
+    "q": "¿Pistola moderna que detecta bordes en LCD?",
+    "choices": [
+      "GunCon 2",
+      "Justifier",
+      "Zapper",
+      "Sinden Lightgun"
+    ],
+    "answer": "Sinden Lightgun"
+  }
+]

@@ -1,0 +1,13 @@
+
+services:
+  - type: web
+    name: gun4fun-trivia
+    env: python
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn server:app --host 0.0.0.0 --port $PORT
+    envVars:
+      - key: TOKEN
+        sync: false
+      - key: TZ
+        value: Europe/Madrid
